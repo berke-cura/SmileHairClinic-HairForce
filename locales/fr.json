@@ -1,0 +1,269 @@
+{
+    "home": {
+      "welcomeTitle": "Bienvenue à Smile Hair Clinic",
+      "welcomeSubtitle": "Veuillez suivre les étapes pour prendre vos photos pour l’analyse.",
+      "startSession": "Commencer la session photo",
+      "welcomeBackTitle": "Bon retour !",
+      "welcomeBackSubtitle": "Gérez votre historique de photos ou démarrez une nouvelle session.",
+      "myHistory": "Mon historique de photos",
+      "transportation": "Comment arriver",
+      "newSession": "Ajouter une nouvelle photo",
+      "aboutInfo": "Informations sur Smile Hair Clinic",
+      "exploreTitle": "Découvrez notre clinique",
+      "doctors": "Nos docteurs",
+      "beforeAfter": "Avant & Après",
+      "patientGuide": "Guide du patient",
+      "faq": "Foire aux questions",
+      "contact": "Contactez-nous"
+    },
+    "results": {
+      "title": "Vérifiez vos photos",
+      "subtitle": "Les {{count}} photos ont été enregistrées.",
+      "retake": "Reprendre les photos",
+      "save": "Enregistrer et terminer",
+      "uploading": "Téléchargement des photos..."
+    },
+    "history": {
+      "title": "Mon historique de photos",
+      "sessionDate": "Session du {{date}}",
+      "photoCount": "{{count}} Photos",
+      "emptyMessage": "Aucune photo n’a encore été prise.",
+      "sessionFrom": "Session du"
+    },
+    "camera": {
+      "feedbackAnalyzing": "🔍 Analyse...",
+      "feedbackCapturing": "📸 Capture de la photo...",
+      "feedbackStable": "✅ Restez stable",
+      "feedbackWrongAngle": "⚠️ Mauvais angle – tournez {{direction}}",
+      "feedbackWrongAngleSlightly": "⚠️ Mauvais angle – tournez légèrement",
+      "feedbackShaking": "🔄 L’appareil bouge – stabilisez-le",
+      "photoSaved": "Photo enregistrée",
+      "transitionTop": "Nous passons à la pose du dessus, veuillez regarder légèrement vers le bas et lever le téléphone",
+      "transitionLeftProfile": "Nous passons au profil gauche, veuillez tourner légèrement la tête vers la droite",
+      "transitionRightProfile": "Nous passons au profil droit, veuillez tourner légèrement la tête vers la gauche",
+      "transitionBack": "Nous passons à la pose arrière, veuillez retourner le téléphone",
+      "transitionFront": "Nous passons à la pose de face",
+      "transitionGeneric": "Nous passons à la pose {{poseName}}",
+      "photoNotSuitable": "La photo n’est pas adaptée à l’analyse. Veuillez réessayer.",
+      "welcomeMessagePart1": "Bienvenue à Smile Hair Clinic",
+      "welcomeMessagePart2": "Centrez votre visage et tenez le téléphone droit.",
+      "permissionTitle": "Autorisation caméra requise",
+      "permissionDescription": "Nous avons besoin d’un accès à la caméra pour prendre des photos.",
+      "analyzingPhoto": "🔍 Analyse de la photo..."
+    },
+    "poseGuides": {
+      "FRONT": {
+        "faceMovement": "Regardez droit devant vous",
+        "phoneMovement": "Tenez le téléphone droit"
+      },
+      "LEFT_PROFILE": {
+        "faceMovement": "Tournez légèrement la tête vers la droite",
+        "phoneMovement": "Gardez le téléphone droit"
+      },
+      "RIGHT_PROFILE": {
+        "faceMovement": "Tournez légèrement la tête vers la gauche",
+        "phoneMovement": "Gardez le téléphone droit"
+      },
+      "TOP": {
+        "faceMovement": "Regardez vers le bas",
+        "phoneMovement": "Levez le téléphone"
+      },
+      "BACK": {
+        "faceMovement": "Regardez plus vers le bas",
+        "phoneMovement": "Levez le téléphone au-dessus de votre tête"
+      }
+    },
+    "navigation": {
+      "home": "Accueil",
+      "history": "Mon historique",
+      "transportation": "Comment arriver",
+      "results": "Photos prises",
+      "camera": "Caméra"
+    },
+    "transportation": {
+      "title": "Comment arriver",
+      "subtitle": "Votre guide pour la Smile Clinic",
+      "welcomeMessage": "Bienvenue à Istanbul ! Nous avons préparé ce guide détaillé pour rendre votre trajet vers notre clinique simple et sans stress.",
+      "fullAddress": "Notre adresse complète",
+      "addressLine1": "Smile Clinic",
+      "addressLine2": "Tatlısu Mahallesi, Alptekin Caddesi, No:15",
+      "addressLine3": "34774, Ümraniye, İstanbul, Türkiye",
+      "glanceTitle": "Aperçu : Transports publics les plus proches",
+      "glanceMetroM8": "Métro le plus proche (Ligne M8) : Mevlana",
+      "glanceMetroM8Desc": "Environ 10-15 minutes à pied.",
+      "glanceMetroM5": "Métro alternatif (Ligne M5) : Ihlamurkuyu",
+      "glanceMetroM5Desc": "Environ 15-20 minutes à pied.",
+      "glanceBus": "Arrêt de bus le plus proche : Osmangazi Caddesi",
+      "glanceBusDesc": "Environ 5-7 minutes à pied.",
+      "airportsTitle": "Arriver depuis les aéroports d’Istanbul",
+      "airportsDesc": "Istanbul possède deux aéroports internationaux. Notre clinique est située sur la rive asiatique, ce qui rend Sabiha Gökçen (SAW) plus proche et plus pratique.",
+      "sawTitle": "1. Depuis l’aéroport Sabiha Gökçen (SAW) - Côté asiatique",
+      "sawDesc": "C’est l’aéroport recommandé pour sa proximité et sa facilité d’accès.",
+      "sawRoute1Title": "Itinéraire recommandé (Métro) :",
+      "sawRoute1Step1": "Prenez la ligne M4 (Kadıköy-Sabiha Gökçen) en direction de Kadıköy.",
+      "sawRoute1Step2": "Après 8 arrêts, descendez à la station Kozyatağı.",
+      "sawRoute1Step3": "Correspondance avec la ligne M8 (Bostancı-Parseller).",
+      "sawRoute1Step4": "Prenez la ligne M8 en direction de Parseller.",
+      "sawRoute1Step5": "Après 5 arrêts, descendez à Mevlana.",
+      "sawRoute1Step6": "Depuis la sortie 'Tatlısu', comptez 10-15 minutes de marche.",
+      "sawRoute2Title": "Alternative (Navette aéroport + Taxi) :",
+      "sawRoute2Step1": "Prenez la navette HAVABUS jusqu’à Yeni Sahra.",
+      "sawRoute2Step2": "Depuis Yeni Sahra, prenez un taxi (environ 15-20 minutes).",
+      "istTitle": "2. Depuis l’aéroport d’Istanbul (IST) - Côté européen",
+      "istDesc": "Cet aéroport se situe sur la rive européenne, le trajet est donc plus long.",
+      "istRoute1Title": "Route la plus simple (Navette aéroport + Taxi) :",
+      "istRoute1Step1": "Prenez le bus HAVAİST-15 (Ümraniye - Tepeüstü).",
+      "istRoute1Step2": "Descendez au terminus, Ümraniye-Tepeüstü.",
+      "istRoute1Step3": "Prenez un taxi (environ 10-15 minutes).",
+      "istRoute2Title": "Transport public (plusieurs correspondances) :",
+      "istRoute2Step1": "Prenez la ligne M11 en direction de Gayrettepe.",
+      "istRoute2Step2": "À Gayrettepe, correspondance avec le Metrobüs (Zincirlikuyu) direction Söğütlüçeşme.",
+      "istRoute2Step3": "Descendez à Altunizade.",
+      "istRoute2Step4": "Correspondance avec la ligne M5 (Üsküdar-Çekmeköy) direction Çekmeköy.",
+      "istRoute2Step5": "Après 5 arrêts, descendez à Ihlamurkuyu.",
+      "istRoute2Step6": "Depuis Ihlamurkuyu, comptez 15-20 minutes à pied.",
+      "cityTitle": "Arriver avec les transports publics de la ville",
+      "cityMetroTitle": "En métro",
+      "cityMetroDesc": "Ligne M8 (Bostancı-Parseller) : Descendez à Mevlana (10-15 min à pied).\nLigne M5 (Üsküdar-Çekmeköy) : Descendez à Ihlamurkuyu (15-20 min à pied).",
+      "cityMetrobusTitle": "En Metrobus (Metrobüs)",
+      "cityMetrobusDesc": "Descendez à Altunizade, puis prenez le métro M5 direction Çekmeköy et descendez à Ihlamurkuyu.",
+      "busTitle": "Depuis les terminaux de bus interurbains",
+      "busEsenler": "Depuis Esenler Otogar (Côté européen) : Prenez M1 -> Marmaray -> M4 -> M8 jusqu’à Mevlana.",
+      "busDudullu": "Depuis le terminal Dudullu (Côté asiatique) : Très proche. Prenez un taxi 10-15 min ou marchez jusqu’à M8 İmes (1 arrêt jusqu’à Mevlana).",
+      "taxiTitle": "En taxi ou voiture privée",
+      "taxiDesc": "Utilisez des applications comme BiTaksi ou Uber. Entrez 'Smile Clinic Ümraniye' dans votre GPS.",
+      "tipsTitle": "Conseils essentiels",
+      "tipsIstanbulkart": "Istanbulkart : Vous devez acheter cette carte (aux machines jaunes 'Biletmatik') pour utiliser les transports publics.",
+      "tipsApps": "Applications de navigation : Nous recommandons Google Maps ou l’application locale Mobiett.",
+      "tipsRushHour": "Heures de pointe : Faites attention au trafic dense (07:30-09:30 et 17:00-19:30)."
+    },
+    "doctors": {
+      "title": "Nos docteurs",
+      "subtitle": "Rencontrez les docteurs fondateurs de Smile Hair Clinic.",
+      "bioTitle": "Biographie",
+      "interviewTitle": "Interview",
+      "bilgin": {
+        "name": "Dr. Gökay Bilgin",
+        "title": "Chirurgien de greffe capillaire, Médecin, Médecin esthétique",
+        "bio": [
+          "Dr. Gökay Bilgin est le co-fondateur de Smile Hair Clinic.",
+          "Il a commencé sa carrière au Medical Park Health Group, l'un des groupes de santé respectés de la région. Il a obtenu son certificat d'éducation en esthétique médicale et greffe capillaire en recherchant les développements dans les procédures esthétiques.",
+          "Il a rejoint le Medicana Health Group en tant que chirurgien de greffe capillaire et a été rapidement nommé médecin-chef adjoint, exerçant jusqu'à la co-fondation de Smile Hair Clinic. Il a depuis complété plus de 4000 procédures de greffe capillaire.",
+          "Sa passion infinie pour le développement l'a conduit à assister à de nombreuses sessions de formation sur l'esthétique médicale et la greffe capillaire. La réputation du Dr G. Bilgin en greffe capillaire est maintenant reconnue mondialement, accueillant des patients du monde entier.",
+          "Il croit en la fourniture d'un traitement à 360 degrés aux patients pendant le processus de greffe capillaire. Il s'assure que les patients sont traités médicalement et chirurgicalement pour obtenir des résultats parfaits et naturels, et qu'une greffe dense et serrée, correctement planifiée, satisfera le patient. Il préfère utiliser l'extraction de greffon Micromotor et les incisions de greffe capillaire FUE Sapphire dans ses opérations.",
+          "Dr. Gökay Bilgin est passionné par la formation et le développement professionnel du personnel médical. Cette passion l'a conduit, lui et son collègue Dr Mehmet Erdoğan, à développer la Philosophie TrueTM. Connu pour son grand sens de l'humour parmi son équipe, vous pouvez voir à quel point le Dr Bilgin aime effectuer ses chirurgies et le lien qu'il forme avec ses patients.",
+          "Sa plus grande priorité est l'achèvement réussi de l'opération et la transformation totale. Dr. G. Bilgin s'intéresse aux films fantastiques et passe son temps libre à en découvrir de nouveaux. Il est marié et père d'un enfant."
+        ],
+        "interview": [
+          { "q": "Quelles sont vos valeurs fondamentales ?", "a": "Dans ma vie professionnelle et privée, je valorise une culture d'apprentissage. Progresser au travail, se développer et ne jamais s'arrêter est très important pour moi. Je passe donc la plupart de mon temps à mieux former notre personnel chez Smile. Pour moi, l'éducation est un voyage sans fin ; nous devons faire progresser le perfectionnisme dans tout ce que nous faisons. À la maison, découvrir de nouvelles choses avec mon fils, lui donner de nouvelles expériences et trouver de nouvelles perspectives est inestimable pour moi. Il n'y a rien que j'aime plus que de le regarder découvrir et apprendre." },
+          { "q": "Quel est votre style de travail à la clinique ?", "a": "Je crois que si vous aimez votre travail, vous serez réussi et satisfait. J'aime ce travail, pas seulement l'opération elle-même, mais observer tout le processus de transformation, comment un homme se transforme en un vrai gentleman. Et j'aime les moments où mes patients décrivent comment leur vie quotidienne a changé. Être témoin d'une vraie transformation dans la vie des gens est la vraie joie." },
+          { "q": "Quel est votre signe du zodiaque ?", "a": "Verseau." },
+          { "q": "Quel est votre parfum préféré ? Pourquoi ?", "a": "Louis Vuitton – Au Hasard. Parce qu'il est relativement nouveau. J'aime découvrir de nouveaux parfums au fil des ans et rester à jour. Et son caractère boisé me fait me sentir ancré à la terre." },
+          { "q": "Quel est votre livre de chevet ? Et pourquoi ?", "a": "La série Le Seigneur des Anneaux. Parce que j'aime me perdre dans son univers fantastique." },
+          { "q": "Quelles étaient les villes les plus inspirantes que vous avez visitées ?", "a": "Berlin, Paris et Amsterdam. Je suis un vrai fan de la culture d'Europe occidentale." }
+        ]
+      },
+      "erdogan": {
+        "name": "Dr. Mehmet Erdoğan",
+        "title": "Chirurgien de greffe capillaire, Médecin, Médecin esthétique",
+        "bio": [
+          "Dr. Mehmet Erdoğan est le co-fondateur de Smile Hair Clinic.",
+          "Il a commencé sa carrière comme médecin au Acıbadem Health Group. Peu de temps après, il a décidé de transférer au Medicana Health Group pour poursuivre sa passion pour la gestion médicale.",
+          "Son fort sens des affaires a conduit à sa nomination en tant que médecin-chef adjoint et directeur du Centre des patients internationaux. Simultanément, à partir de 2013, il a obtenu ses certifications pour devenir chirurgien de greffe capillaire et médecin esthétique. Il a effectué plus de 4000 opérations depuis. Son expertise en greffe capillaire a progressé pendant ces années.",
+          "Ses compétences avancées, son expérience approfondie, combinées à sa compréhension de la gestion du tourisme médical international, l'ont conduit à co-fonder Smile Hair Clinic en 2018.",
+          "Sa perspective perfectionniste sur l'esthétique l'a poussé à rechercher des avancées dans les techniques modernes de greffe capillaire. La réputation du Dr M. Erdoğan en greffe capillaire est maintenant celle d'un professionnel reconnu mondialement. Il utilise les extractions de greffon Micromotor et les incisions de greffe capillaire FUE Sapphire les plus récentes et les plus largement acceptées dans ses opérations.",
+          "Il croit que la planification est l'étape la plus cruciale. La planification de la zone donneuse, la conception de la ligne de cheveux et la planification selon les caractéristiques faciales assurent un résultat d'apparence naturelle.",
+          "L'obsession du Dr M. Erdoğan pour le développement durable l'a toujours encouragé à chercher de nouvelles façons d'innover pour le mieux. C'est ainsi que lui et son collègue Dr Gökay Bilgin ont développé la Philosophie TrueTM.",
+          "Erdoğan est connu pour son sens de la mode actuel et élégant et son intérêt pour les cigares. Il est un vrai explorateur de nouvelles cultures dans les dimensions musicales et artistiques. Vous pourriez le voir écouter son répertoire musical distingué à la clinique pendant les chirurgies. Il aime jouer au golf et passe ses week-ends à améliorer ses compétences au golf. Il est nouvellement marié. Il parle anglais et allemand."
+        ],
+        "interview": [
+          { "q": "Quelles sont vos valeurs fondamentales ?", "a": "Je valorise l'esthétique et l'excellence dans presque tous les aspects de la vie. Socialement, j'aime nourrir mon âme avec les beaux-arts et la culture. Je crois que l'esthétique est notre sens intérieur et guide notre créativité artistique. Mon travail est de transformer l'apparence des hommes pour le mieux et d'impacter leur vie. Par conséquent, je combine mes connaissances techniques en greffe capillaire avec ma perspective esthétique et j'effectue mon travail comme un artiste créatif." },
+          { "q": "Quel est votre style de travail à la clinique ?", "a": "J'aime le travail que je fais tous les jours ; c'est ma passion. Le travail fait sans plaisir ne signifie pas grand-chose pour moi. Je me sens privilégié d'avoir ce don et de pouvoir faire de mon mieux pour améliorer nos techniques et introduire des innovations." },
+          { "q": "Quel est votre signe du zodiaque ?", "a": "Cancer." },
+          { "q": "Quel est votre parfum préféré ? Pourquoi ?", "a": "Aventus de Creed. Parce que c'est un mélange sophistiqué et exprime le goût d'une vie bien vécue." },
+          { "q": "Quel est votre livre de chevet ? Et pourquoi ?", "a": "Méditations, Marc Aurèle." },
+          { "q": "Quelles étaient les villes les plus inspirantes que vous avez visitées ?", "a": "La Havane (Cuba), Siem Reap (Cambodge), Hanoï (Vietnam). Les cultures intactes sont plus fascinantes pour moi. Je suis un vrai explorateur de culture." }
+        ]
+      }
+    },
+    "beforeAfter": {
+      "title": "Avant & Après",
+      "subtitle": "Voyez les résultats impressionnants de nos patients"
+    },
+    "patientGuide": {
+      "title": "Guide du patient",
+      "subtitle": "Tout ce que vous devez savoir sur votre parcours de greffe capillaire",
+      "preOp": "Avant l’opération",
+      "preOpContent": "Avant votre opération de greffe capillaire, veuillez suivre ces recommandations :\n\n• Arrêtez les anticoagulants (aspirine, etc.) 1 semaine avant l’opération\n• Évitez l’alcool 48 heures avant l’opération\n• Dormez bien la veille\n• Prenez un petit-déjeuner léger le matin de l’opération\n• Portez des vêtements confortables et à boutons\n• Organisez votre transport car vous ne pourrez pas conduire après l’intervention",
+      "opDay": "Jour de l’opération",
+      "opDayContent": "Le jour de votre opération :\n\n• Arrivez à la clinique à l’heure (généralement 8h00)\n• La procédure dure environ 6 à 8 heures\n• Vous serez éveillé avec anesthésie locale\n• Notre équipe médicale veillera à votre confort\n• Vous pouvez regarder la TV, écouter de la musique ou vous reposer\n• Un déjeuner léger sera fourni",
+      "postOp": "Après l’opération",
+      "postOpContent": "Après votre greffe capillaire :\n\n• Vous recevrez des instructions détaillées de soins post-opératoires\n• Évitez de toucher ou gratter la zone transplantée\n• Dormez la tête légèrement surélevée pendant les premiers jours\n• Évitez les activités intenses pendant au moins 2 semaines\n• Protégez votre cuir chevelu du soleil direct\n• Assistez à tous les rendez-vous de suivi",
+      "hairWashing": "Lavage des cheveux après la greffe",
+      "hairWashingContent": "Un lavage correct est crucial pour la guérison :\n\n• Attendez 48 heures avant le premier lavage\n• Utilisez uniquement le shampooing fourni par la clinique\n• Appliquez doucement le shampooing du bout des doigts\n• Rincez à l’eau tiède, jamais chaude\n• Séchez en tapotant doucement avec une serviette souple\n• Suivez le calendrier de lavage indiqué par votre médecin"
+    },
+    "faq": {
+      "title": "Foire aux questions",
+      "subtitle": "Trouvez les réponses aux questions les plus fréquentes sur la greffe capillaire",
+      "q1": "Combien de temps dois-je porter un chapeau après une greffe capillaire ?",
+      "a1": "Évitez de porter des chapeaux serrés pendant les 2 premières semaines. Après cela, vous pouvez porter des chapeaux amples. Évitez tout couvre-chef exerçant une pression sur la zone transplantée pendant au moins 1 mois.",
+      "q2": "Quand puis-je retourner au travail après l’opération ?",
+      "a2": "La plupart des patients peuvent reprendre le travail dans les 3 à 5 jours, selon le type de travail. Si votre travail implique un effort physique, vous devrez peut-être attendre 1 à 2 semaines.",
+      "q3": "Les cheveux transplantés vont-ils tomber ?",
+      "a3": "Oui, c’est normal. Les cheveux transplantés tombent 2 à 3 semaines après l’opération. C’est ce qu’on appelle la 'chute de choc'. Les nouveaux cheveux commenceront à pousser après 3 à 4 mois.",
+      "q4": "Quand verrai-je les résultats finaux ?",
+      "a4": "Vous commencerez à voir une repousse après 3-4 mois. Les cheveux continueront de pousser et d’épaissir pendant 12 à 18 mois. Les résultats finaux sont visibles après 12-18 mois.",
+      "q5": "L’opération est-elle douloureuse ?",
+      "a5": "L’opération est réalisée sous anesthésie locale, vous ne ressentirez donc pas de douleur. Vous pouvez avoir un léger inconfort dans les jours suivants, gérable avec les médicaments prescrits.",
+      "q6": "Puis-je faire du sport après l’opération ?",
+      "a6": "Évitez le sport et les exercices intenses pendant au moins 2 semaines. La marche est autorisée. Après 2 semaines, reprenez progressivement, mais évitez toute activité entraînant transpiration ou impact sur la tête."
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "subtitle": "Contactez-nous directement.",
+      "callNow": "Appeler maintenant",
+      "whatsApp": "Discuter sur WhatsApp",
+      "detailsTitle": "Coordonnées",
+      "address": "Adresse",
+      "email": "E-Mail",
+      "emailPlaceholder": "Entrez votre adresse e-mail",
+      "formTitle": "Ou envoyez-nous un message",
+      "name": "Nom complet",
+      "namePlaceholder": "Entrez votre nom complet",
+      "phone": "Téléphone",
+      "phonePlaceholder": "Entrez votre numéro de téléphone",
+      "message": "Votre message",
+      "messagePlaceholder": "Décrivez vos questions ou préoccupations",
+      "send": "Envoyer le message",
+      "validationError": "Erreur de validation",
+      "validationMessage": "Veuillez remplir tous les champs requis (Nom, E-mail, Téléphone)",
+      "successTitle": "Message envoyé",
+      "successMessage": "Merci de nous avoir contactés. Nous vous répondrons dès que possible.",
+      "errorTitle": "Erreur",
+      "errorMessage": "Impossible d’ouvrir {{url}}"
+    },
+    "errors": {
+      "doctorNotFound": "Docteur introuvable.",
+      "sessionNotFound": "Session introuvable.",
+      "uploadFailed": "Vos photos n'ont pas pu être enregistrées. Veuillez vérifier votre connexion Internet et réessayer."
+    },
+    "poseNames": {
+      "FRONT": "Face",
+      "LEFT_PROFILE": "Profil gauche",
+      "RIGHT_PROFILE": "Profil droit",
+      "TOP": "Dessus",
+      "BACK": "Arrière"
+    },
+    "common": {
+      "ok": "OK",
+      "close": "Fermer",
+      "error": "Erreur"
+    },
+    "language": {
+      "selectLanguage": "Sélectionner la langue",
+      "changeTitle": "Langue modifiée",
+      "changeMessage": "L'application va maintenant redémarrer pour appliquer les changements de langue.",
+      "changeMessageExpoGo": "Veuillez recharger manuellement l'application (secouez l'appareil ou appuyez sur 'r' dans le terminal) pour appliquer les changements de langue."
+    }
+  }
+  

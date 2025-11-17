@@ -1,0 +1,269 @@
+{
+  "home": {
+    "welcomeTitle": "Welcome to Smile Hair Clinic",
+    "welcomeSubtitle": "Please follow the steps to capture your photos for analysis.",
+    "startSession": "Start Your Photo Session",
+    "welcomeBackTitle": "Welcome Back!",
+    "welcomeBackSubtitle": "Manage your photo history or start a new session.",
+    "myHistory": "My Photo History",
+    "transportation": "How to Arrive",
+    "newSession": "Add New Photo",
+    "aboutInfo": "Smile Hair Clinic Information",
+    "exploreTitle": "Explore Our Clinic",
+    "doctors": "Our Doctors",
+    "beforeAfter": "Before & After",
+    "patientGuide": "Patient Guide",
+    "faq": "Frequently Asked Questions",
+    "contact": "Contact Us"
+  },
+  "results": {
+    "title": "Review Your Photos",
+    "subtitle": "All {{count}} photos have been saved.",
+    "retake": "Retake Photos",
+    "save": "Save & Finish",
+    "uploading": "Uploading photos..."
+  },
+  "history": {
+    "title": "My Photo History",
+    "sessionDate": "Session from {{date}}",
+    "photoCount": "{{count}} Photos",
+    "emptyMessage": "No photos captured yet.",
+    "sessionFrom": "Session from"
+  },
+  "camera": {
+    "feedbackAnalyzing": "🔍 Analyzing...",
+    "feedbackCapturing": "📸 Capturing photo...",
+    "feedbackStable": "✅ Stay Stable",
+    "feedbackWrongAngle": "⚠️ Wrong Angle – turn {{direction}}",
+    "feedbackWrongAngleSlightly": "⚠️ Wrong Angle – rotate slightly",
+    "feedbackShaking": "🔄 Device is shaking – stabilize",
+    "photoSaved": "Photo saved",
+    "transitionTop": "We are moving to the top pose, please look slightly down and raise the phone a bit",
+    "transitionLeftProfile": "We are moving to the left profile, please turn your head slightly to the right",
+    "transitionRightProfile": "We are moving to the right profile, please turn your head slightly to the left",
+    "transitionBack": "We are moving to the back pose, please turn the phone upside down",
+    "transitionFront": "We are moving to the front pose",
+    "transitionGeneric": "We are moving to the {{poseName}} pose",
+    "photoNotSuitable": "Photo is not suitable for analysis. Please try again.",
+    "welcomeMessagePart1": "Welcome to Smile Hair Clinic",
+    "welcomeMessagePart2": "Center your face and hold the phone straight.",
+    "permissionTitle": "Camera Permission Required",
+    "permissionDescription": "We need access to the camera to capture photos.",
+    "analyzingPhoto": "🔍 Photo is being analyzed..."
+  },
+  "poseGuides": {
+    "FRONT": {
+      "faceMovement": "Look straight ahead",
+      "phoneMovement": "Hold phone straight"
+    },
+    "LEFT_PROFILE": {
+      "faceMovement": "Turn head slightly right",
+      "phoneMovement": "Keep phone straight"
+    },
+    "RIGHT_PROFILE": {
+      "faceMovement": "Turn head slightly left",
+      "phoneMovement": "Keep phone straight"
+    },
+    "TOP": {
+      "faceMovement": "Look down",
+      "phoneMovement": "Lift phone up"
+    },
+    "BACK": {
+      "faceMovement": "Look down more",
+      "phoneMovement": "Lift phone above your head"
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "history": "My History",
+    "transportation": "How to Arrive",
+    "results": "Captured Photos",
+    "camera": "Camera"
+  },
+  "transportation": {
+    "title": "How to Arrive",
+    "subtitle": "Your Guide to Smile Clinic",
+    "welcomeMessage": "Welcome to Istanbul! We have prepared this detailed guide to ensure your journey to our clinic is as smooth and stress-free as possible.",
+    "fullAddress": "Our Full Address",
+    "addressLine1": "Smile Clinic",
+    "addressLine2": "Tatlısu Mahallesi, Alptekin Caddesi, No:15",
+    "addressLine3": "34774, Ümraniye, İstanbul, Türkiye",
+    "glanceTitle": "At a Glance: Nearest Public Transport",
+    "glanceMetroM8": "Closest Metro (M8 Line): Mevlana",
+    "glanceMetroM8Desc": "Approx. 10-15 minute walk.",
+    "glanceMetroM5": "Alternative Metro (M5 Line): Ihlamurkuyu",
+    "glanceMetroM5Desc": "Approx. 15-20 minute walk.",
+    "glanceBus": "Closest Bus Stop: Osmangazi Caddesi",
+    "glanceBusDesc": "Approx. 5-7 minute walk.",
+    "airportsTitle": "Arriving From Istanbul's Airports",
+    "airportsDesc": "Istanbul has two international airports. Our clinic is located on the Asian (Anatolian) side, making Sabiha Gökçen (SAW) the closer and more convenient option.",
+    "sawTitle": "1. From Sabiha Gökçen Airport (SAW) - Asian Side",
+    "sawDesc": "This is the recommended airport for proximity and ease of access.",
+    "sawRoute1Title": "Recommended Route (Metro):",
+    "sawRoute1Step1": "Board the M4 Metro (Kadıköy-Sabiha Gökçen) towards Kadıköy.",
+    "sawRoute1Step2": "Travel 8 stops and get off at Kozyatağı station.",
+    "sawRoute1Step3": "Transfer to the M8 Metro (Bostancı-Parseller) line.",
+    "sawRoute1Step4": "Board the M8 Metro towards Parseller.",
+    "sawRoute1Step5": "Travel 5 stops and get off at Mevlana station.",
+    "sawRoute1Step6": "From the 'Tatlısu' exit, it is a 10-15 minute walk.",
+    "sawRoute2Title": "Alternative (Airport Shuttle + Taxi):",
+    "sawRoute2Step1": "Take the HAVABUS shuttle service to Yeni Sahra.",
+    "sawRoute2Step2": "From Yeni Sahra, take a short taxi ride (approx. 15-20 minutes).",
+    "istTitle": "2. From Istanbul Airport (IST) - European Side",
+    "istDesc": "This airport is on the European side, and the journey is longer.",
+    "istRoute1Title": "Easiest Route (Airport Shuttle + Taxi):",
+    "istRoute1Step1": "Board the HAVAİST-15 (Ümraniye - Tepeüstü) bus.",
+    "istRoute1Step2": "Get off at the final stop, Ümraniye-Tepeüstü.",
+    "istRoute1Step3": "Take a short taxi ride (approx. 10-15 minutes).",
+    "istRoute2Title": "Public Transport Route (Multiple Transfers):",
+    "istRoute2Step1": "Board the M11 Metro towards Gayrettepe.",
+    "istRoute2Step2": "At Gayrettepe, transfer to the Metrobüs (Zincirlikuyu) line towards Söğütlüçeşme.",
+    "istRoute2Step3": "Get off at Altunizade station.",
+    "istRoute2Step4": "Transfer to the M5 Metro (Üsküdar-Çekmeköy) line towards Çekmeköy.",
+    "istRoute2Step5": "Travel 5 stops and get off at Ihlamurkuyu station.",
+    "istRoute2Step6": "From Ihlamurkuyu, it is a 15-20 minute walk.",
+    "cityTitle": "Arriving via City Public Transport",
+    "cityMetroTitle": "By Metro",
+    "cityMetroDesc": "M8 (Bostancı-Parseller) Line: Get off at Mevlana (Closest station, 10-15 min walk).\nM5 (Üsküdar-Çekmeköy) Line: Get off at Ihlamurkuyu (15-20 min walk).",
+    "cityMetrobusTitle": "By Metrobus (Metrobüs)",
+    "cityMetrobusDesc": "Get off at Altunizade, transfer to M5 Metro (Çekmeköy direction), and get off at Ihlamurkuyu.",
+    "busTitle": "From Intercity Bus Terminals",
+    "busEsenler": "From Esenler Otogar (European Side): Take M1 -> Marmaray -> M4 -> M8 to Mevlana.",
+    "busDudullu": "From Dudullu Terminal (Asian Side): Very close. Take a 10-15 min taxi, or walk to M8 İmes station (1 stop to Mevlana).",
+    "taxiTitle": "By Taxi or Private Car",
+    "taxiDesc": "Use apps like BiTaksi or Uber. Enter 'Smile Clinic Ümraniye' into your navigation app.",
+    "tipsTitle": "Essential Travel Tips",
+    "tipsIstanbulkart": "Istanbulkart: You must purchase this card (from yellow 'Biletmatik' machines) to use any public transport.",
+    "tipsApps": "Navigation Apps: We highly recommend Google Maps or the local Mobiett app.",
+    "tipsRushHour": "Rush Hour: Be aware of heavy traffic (07:30-09:30 and 17:00-19:30)."
+  },
+  "doctors": {
+    "title": "Our Doctors",
+    "subtitle": "Meet the founding doctors of Smile Hair Clinic.",
+    "bioTitle": "Biography",
+    "interviewTitle": "Interview",
+    "bilgin": {
+      "name": "Dr. Gökay Bilgin",
+      "title": "Hair Transplant Surgeon, M.D. Medical Aesthetic Physician",
+      "bio": [
+        "Dr. Gökay Bilgin is the co-founder of Smile Hair Clinic.",
+        "He began his career at the Medical Park Health Group, one of the region's respected health groups. He obtained his Medical Aesthetics and Hair Transplantation Education certificate by researching developments in aesthetic procedures.",
+        "He joined Medicana Health Group as a Hair Transplant Surgeon and was shortly appointed Deputy Chief Physician, practicing until co-founding Smile Hair Clinic. He has since completed over 4000 hair transplant procedures.",
+        "His endless passion for development led him to attend numerous training sessions on medical aesthetics and hair transplantation. Dr. G. Bilgin's reputation in hair transplantation is now globally recognized, welcoming patients from all over the world.",
+        "He believes in providing a 360-degree treatment to patients during the hair transplant process. He ensures patients are medically and surgically treated to achieve perfect, natural results, and that a dense, tight transplant, planned correctly, will satisfy the patient. He prefers using Micromotor Graft extraction and Sapphire FUE Hair Transplantation incisions in his operations.",
+        "Dr. Gökay Bilgin is passionate about the training and professional development of medical staff. This passion led him and his colleague Dr. Mehmet Erdoğan to develop the TrueTM Philosophy. Known for his great sense of humor among his team, you can see how much Dr. Bilgin enjoys performing his surgeries and the bond he forms with his patients.",
+        "His greatest priority is the successful completion of the operation and the total transformation. Dr. G. Bilgin is interested in fantasy films and spends his spare time discovering new ones. He is married and a father of one child."
+      ],
+      "interview": [
+        { "q": "What are your core values?", "a": "In both my professional and private life, I value a culture of learning. Progressing at work, developing, and never stopping is very important to me. Thus, I spend most of my time better training our staff at Smile. For me, education is a never-ending journey; we need to advance perfectionism in everything we do. At home, discovering new things with my son, giving him new experiences, and finding new perspectives is priceless to me. There is nothing I enjoy more than watching him discover and learn." },
+        { "q": "What is your working style at the clinic?", "a": "I believe that if you enjoy your work, you will be successful and satisfied. I enjoy this job, not just the operation itself, but observing the entire transformation process, how a man transforms into a True Gentleman. And I love the moments when my patients describe how their daily lives have changed. Witnessing a real transformation in people's lives is the real joy." },
+        { "q": "What is your zodiac sign?", "a": "Aquarius." },
+        { "q": "What is your favorite perfume? Why?", "a": "Louis Vuitton – Au Hasard. Because it is relatively new. I love discovering new scents over the years and staying current. And its woody character makes me feel grounded to the earth." },
+        { "q": "What is your bedside book? And why?", "a": "The Lord of the Rings Series. Because I love getting lost in its fantastic universe." },
+        { "q": "What were the most inspiring cities you visited?", "a": "Berlin, Paris, and Amsterdam. I am a true fan of Western European culture." }
+      ]
+    },
+    "erdogan": {
+      "name": "Dr. Mehmet Erdoğan",
+      "title": "Hair Transplant Surgeon, M.D. Medical Aesthetic Physician",
+      "bio": [
+        "Dr. Mehmet Erdoğan is the co-founder of Smile Hair Clinic.",
+        "He began his career as a medical doctor at Acıbadem Health Group. Shortly after, he decided to transfer to Medicana Health Group to pursue his passion for medical management.",
+        "His strong business acumen led to his appointment as Deputy Chief Physician and Director of the International Patient Center. Concurrently, starting in 2013, he obtained his certifications to become a Hair Transplant Surgeon and Medical-Aesthetic Physician. He has performed over 4000 operations since then. His expertise in hair transplantation advanced during those years.",
+        "His advanced skills, deep experience, combined with his understanding of international medical tourism management, led him to co-found Smile Hair Clinic in 2018.",
+        "His perfectionist perspective on aesthetics has driven him to seek advancements in modern hair transplantation techniques. Dr. M. Erdoğan's reputation in hair transplantation is now that of a globally recognized professional. He uses the most current and widely accepted Micromotor Graft extraction and Sapphire FUE Hair Transplantation incisions in his operations.",
+        "He believes that planning is the most crucial step. Donor area planning, hairline design, and planning according to facial features ensure a natural-looking result.",
+        "Dr. M. Erdoğan's obsession with sustainable development has always encouraged him to seek new ways to innovate for the better. This is how he and his colleague Dr. Gökay Bilgin developed the TrueTM Philosophy.",
+        "Erdoğan is known for his current, stylish fashion sense and his interest in cigars. He is a true explorer of new cultures in musical and artistic dimensions. You might witness him listening to his distinguished music repertoire in the clinic during surgeries. He loves playing golf and spends his weekends improving his golf skills. He is newly married. He is proficient in English and German."
+      ],
+      "interview": [
+        { "q": "What are your core values?", "a": "I value aesthetics and excellence in almost every aspect of life. Socially, I love to nourish my soul with fine arts and culture. I believe that aesthetics is our inner sense and guides our artistic creativity. My job is to transform men's appearances for the better and impact their lives. Therefore, I combine my technical knowledge of hair transplantation with my aesthetic perspective and perform my work as a creative artist." },
+        { "q": "What is your working style at the clinic?", "a": "I enjoy the work I do every day; it is my passion. Work done without pleasure doesn't mean much to me. I feel privileged to have this gift and to be able to do my best to improve our techniques and introduce innovations." },
+        { "q": "What is your zodiac sign?", "a": "Cancer." },
+        { "q": "What is your favorite perfume? Why?", "a": "Aventus by Creed. Because it is a sophisticated blend and expresses the taste of a life well-lived." },
+        { "q": "What is your bedside book? And why?", "a": "Meditations, Marcus Aurelius." },
+        { "q": "What were the most inspiring cities you visited?", "a": "Havana (Cuba), Siem Reap (Cambodia), Hanoi (Vietnam). Untouched cultures are more fascinating to me. I am a true culture explorer." }
+      ]
+    }
+  },
+  "beforeAfter": {
+    "title": "Before & After",
+    "subtitle": "See the amazing results from our patients"
+  },
+  "patientGuide": {
+    "title": "Patient Guide",
+    "subtitle": "Everything you need to know about your hair transplant journey",
+    "preOp": "Before the Operation",
+    "preOpContent": "Before your hair transplant operation, please follow these guidelines:\n\n• Stop taking blood-thinning medications (aspirin, etc.) 1 week before the operation\n• Avoid alcohol consumption 48 hours before the operation\n• Get a good night's sleep the night before\n• Have a light breakfast on the morning of the operation\n• Wear comfortable, button-up clothing\n• Arrange transportation as you will not be able to drive after the procedure",
+    "opDay": "Day of the Operation",
+    "opDayContent": "On the day of your operation:\n\n• Arrive at the clinic on time (usually 8:00 AM)\n• The procedure will take approximately 6-8 hours\n• You will be awake during the procedure with local anesthesia\n• Our medical team will ensure your comfort throughout\n• You can watch TV, listen to music, or rest during the procedure\n• A light lunch will be provided",
+    "postOp": "After the Operation",
+    "postOpContent": "After your hair transplant:\n\n• You will receive detailed post-operative care instructions\n• Avoid touching or scratching the transplanted area\n• Sleep with your head elevated for the first few nights\n• Avoid strenuous activities for at least 2 weeks\n• Protect your scalp from direct sunlight\n• Attend all scheduled follow-up appointments",
+    "hairWashing": "Hair Washing After Transplant",
+    "hairWashingContent": "Proper hair washing is crucial for recovery:\n\n• Wait 48 hours before the first wash\n• Use only the special shampoo provided by the clinic\n• Gently apply shampoo with your fingertips, no nails\n• Rinse with lukewarm water, never hot\n• Pat dry gently with a soft towel, do not rub\n• Follow the specific washing schedule provided by your doctor"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about hair transplantation",
+    "q1": "How long should I wear a hat after hair transplant?",
+    "a1": "You should avoid wearing tight hats for the first 2 weeks. After that, you can wear loose-fitting hats or caps. Avoid any headwear that puts pressure on the transplanted area for at least 1 month.",
+    "q2": "When can I return to work after the operation?",
+    "a2": "Most patients can return to work within 3-5 days after the operation, depending on their job type. If your work involves physical labor, you may need to wait 1-2 weeks.",
+    "q3": "Will the transplanted hair fall out?",
+    "a3": "Yes, this is normal. The transplanted hair will fall out 2-3 weeks after the operation. This is called 'shock loss' and is expected. New hair will start growing from the same follicles after 3-4 months.",
+    "q4": "How long until I see final results?",
+    "a4": "You will start seeing new hair growth after 3-4 months. The hair will continue to grow and thicken over the next 12-18 months. Final results are typically visible after 12-18 months.",
+    "q5": "Is the procedure painful?",
+    "a5": "The procedure is performed under local anesthesia, so you will not feel pain during the operation. You may experience mild discomfort or soreness in the days following, which can be managed with prescribed pain medication.",
+    "q6": "Can I exercise after the operation?",
+    "a6": "You should avoid strenuous exercise and sports for at least 2 weeks. Light activities like walking are fine. After 2 weeks, you can gradually return to your normal exercise routine, but avoid activities that may cause sweating or impact to the head."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us directly.",
+    "callNow": "Call Now",
+    "whatsApp": "Chat on WhatsApp",
+    "detailsTitle": "Contact Details",
+    "address": "Address",
+    "email": "E-Mail",
+    "emailPlaceholder": "Enter your E-Mail adress",
+    "formTitle": "Or Send Us a Message",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "phone": "Phone",
+    "phonePlaceholder": "Enter your phone number",
+    "message": "Your Message",
+    "messagePlaceholder": "Tell us about your questions or concerns",
+    "send": "Send Message",
+    "validationError": "Validation Error",
+    "validationMessage": "Please fill in all required fields (Name, Email, Phone)",
+    "successTitle": "Message Sent",
+    "successMessage": "Thank you for contacting us. We will get back to you as soon as possible.",
+    "errorTitle": "Error",
+    "errorMessage": "Could not open {{url}}"
+  },
+  "errors": {
+    "doctorNotFound": "Doctor not found.",
+    "sessionNotFound": "Session not found.",
+    "uploadFailed": "Your photos could not be saved. Please check your internet connection and try again."
+  },
+  "poseNames": {
+    "FRONT": "Front",
+    "LEFT_PROFILE": "Left Profile",
+    "RIGHT_PROFILE": "Right Profile",
+    "TOP": "Top",
+    "BACK": "Back"
+  },
+  "common": {
+    "ok": "OK",
+    "close": "Close",
+    "error": "Error"
+  },
+  "language": {
+    "selectLanguage": "Select Language",
+    "changeTitle": "Language Changed",
+    "changeMessage": "The application will now restart to apply language changes.",
+    "changeMessageExpoGo": "Please manually reload the app (shake device or press 'r' in terminal) to apply language changes."
+  }
+}
+

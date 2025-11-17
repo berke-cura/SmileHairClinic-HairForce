@@ -1,0 +1,269 @@
+{
+    "home": {
+      "welcomeTitle": "Willkommen in der Smile Hair Clinic",
+      "welcomeSubtitle": "Bitte folgen Sie den Schritten, um Ihre Fotos zur Analyse aufzunehmen.",
+      "startSession": "Ihre Fotosession starten",
+      "welcomeBackTitle": "Willkommen zurück!",
+      "welcomeBackSubtitle": "Verwalten Sie Ihre Fotohistorie oder starten Sie eine neue Session.",
+      "myHistory": "Meine Fotohistorie",
+      "transportation": "Anreise",
+      "newSession": "Neues Foto hinzufügen",
+      "aboutInfo": "Informationen zur Smile Hair Clinic",
+      "exploreTitle": "Entdecken Sie unsere Klinik",
+      "doctors": "Unsere Ärzte",
+      "beforeAfter": "Vorher & Nachher",
+      "patientGuide": "Patientenleitfaden",
+      "faq": "Häufig gestellte Fragen",
+      "contact": "Kontakt"
+    },
+    "results": {
+      "title": "Überprüfen Sie Ihre Fotos",
+      "subtitle": "Alle {{count}} Fotos wurden gespeichert.",
+      "retake": "Fotos erneut aufnehmen",
+      "save": "Speichern und Beenden",
+      "uploading": "Fotos werden hochgeladen..."
+    },
+    "history": {
+      "title": "Meine Fotohistorie",
+      "sessionDate": "Session vom {{date}}",
+      "photoCount": "{{count}} Fotos",
+      "emptyMessage": "Noch keine Fotos aufgenommen.",
+      "sessionFrom": "Session vom"
+    },
+    "camera": {
+      "feedbackAnalyzing": "🔍 Analyse läuft...",
+      "feedbackCapturing": "📸 Foto wird aufgenommen...",
+      "feedbackStable": "✅ Stabil bleiben",
+      "feedbackWrongAngle": "⚠️ Falscher Winkel – drehen Sie sich nach {{direction}}",
+      "feedbackWrongAngleSlightly": "⚠️ Falscher Winkel – leicht drehen",
+      "feedbackShaking": "🔄 Gerät wackelt – bitte stabilisieren",
+      "photoSaved": "Foto gespeichert",
+      "transitionTop": "Wir wechseln zur oberen Pose, bitte schauen Sie leicht nach unten und heben Sie das Telefon etwas an",
+      "transitionLeftProfile": "Wir wechseln zur linken Profilansicht, bitte drehen Sie Ihren Kopf leicht nach rechts",
+      "transitionRightProfile": "Wir wechseln zur rechten Profilansicht, bitte drehen Sie Ihren Kopf leicht nach links",
+      "transitionBack": "Wir wechseln zur Rückenansicht, bitte drehen Sie das Telefon um",
+      "transitionFront": "Wir wechseln zur Frontalansicht",
+      "transitionGeneric": "Wir wechseln zur {{poseName}}-Pose",
+      "photoNotSuitable": "Foto ist für die Analyse nicht geeignet. Bitte versuchen Sie es erneut.",
+      "welcomeMessagePart1": "Willkommen in der Smile Hair Clinic",
+      "welcomeMessagePart2": "Zentrieren Sie Ihr Gesicht und halten Sie das Telefon gerade.",
+      "permissionTitle": "Kameraberechtigung erforderlich",
+      "permissionDescription": "Wir benötigen Zugriff auf die Kamera, um Fotos aufzunehmen.",
+      "analyzingPhoto": "🔍 Foto wird analysiert..."
+    },
+    "poseGuides": {
+      "FRONT": {
+        "faceMovement": "Geradeaus schauen",
+        "phoneMovement": "Telefon gerade halten"
+      },
+      "LEFT_PROFILE": {
+        "faceMovement": "Kopf leicht nach rechts drehen",
+        "phoneMovement": "Telefon gerade halten"
+      },
+      "RIGHT_PROFILE": {
+        "faceMovement": "Kopf leicht nach links drehen",
+        "phoneMovement": "Telefon gerade halten"
+      },
+      "TOP": {
+        "faceMovement": "Nach unten schauen",
+        "phoneMovement": "Telefon anheben"
+      },
+      "BACK": {
+        "faceMovement": "Weiter nach unten schauen",
+        "phoneMovement": "Telefon über den Kopf heben"
+      }
+    },
+    "navigation": {
+      "home": "Startseite",
+      "history": "Historie",
+      "transportation": "Anreise",
+      "results": "Aufgenommene Fotos",
+      "camera": "Kamera"
+    },
+    "transportation": {
+      "title": "Anreise",
+      "subtitle": "Ihr Leitfaden zur Smile Clinic",
+      "welcomeMessage": "Willkommen in Istanbul! Wir haben diesen detaillierten Leitfaden vorbereitet, um Ihre Reise zu unserer Klinik so reibungslos und stressfrei wie möglich zu gestalten.",
+      "fullAddress": "Unsere vollständige Adresse",
+      "addressLine1": "Smile Clinic",
+      "addressLine2": "Tatlısu Mahallesi, Alptekin Caddesi, Nr. 15",
+      "addressLine3": "34774, Ümraniye, Istanbul, Türkei",
+      "glanceTitle": "Auf einen Blick: Nächste öffentliche Verkehrsmittel",
+      "glanceMetroM8": "Nächste Metro (M8 Linie): Mevlana",
+      "glanceMetroM8Desc": "Ca. 10–15 Minuten zu Fuß.",
+      "glanceMetroM5": "Alternative Metro (M5 Linie): Ihlamurkuyu",
+      "glanceMetroM5Desc": "Ca. 15–20 Minuten zu Fuß.",
+      "glanceBus": "Nächste Bushaltestelle: Osmangazi Caddesi",
+      "glanceBusDesc": "Ca. 5–7 Minuten zu Fuß.",
+      "airportsTitle": "Anreise von Istanbuls Flughäfen",
+      "airportsDesc": "Istanbul hat zwei internationale Flughäfen. Unsere Klinik befindet sich auf der asiatischen Seite, daher ist Sabiha Gökçen (SAW) die nähergelegene und bequemere Option.",
+      "sawTitle": "1. Vom Flughafen Sabiha Gökçen (SAW) – Asiatische Seite",
+      "sawDesc": "Dies ist der empfohlene Flughafen aufgrund seiner Nähe und Erreichbarkeit.",
+      "sawRoute1Title": "Empfohlene Route (Metro):",
+      "sawRoute1Step1": "Nehmen Sie die M4 Metro (Kadıköy-Sabiha Gökçen) Richtung Kadıköy.",
+      "sawRoute1Step2": "Fahren Sie 8 Stationen und steigen Sie in Kozyatağı aus.",
+      "sawRoute1Step3": "Wechseln Sie zur M8 Metro (Bostancı-Parseller).",
+      "sawRoute1Step4": "Nehmen Sie die M8 Richtung Parseller.",
+      "sawRoute1Step5": "Fahren Sie 5 Stationen und steigen Sie an der Station Mevlana aus.",
+      "sawRoute1Step6": "Vom 'Tatlısu'-Ausgang sind es 10–15 Minuten zu Fuß.",
+      "sawRoute2Title": "Alternative (Shuttle + Taxi):",
+      "sawRoute2Step1": "Nehmen Sie den HAVABUS-Shuttle nach Yeni Sahra.",
+      "sawRoute2Step2": "Von dort nehmen Sie ein Taxi (ca. 15–20 Minuten).",
+      "istTitle": "2. Vom Flughafen Istanbul (IST) – Europäische Seite",
+      "istDesc": "Dieser Flughafen liegt auf der europäischen Seite, und die Reise ist länger.",
+      "istRoute1Title": "Einfachste Route (Shuttle + Taxi):",
+      "istRoute1Step1": "Nehmen Sie den HAVAİST-15 (Ümraniye - Tepeüstü) Bus.",
+      "istRoute1Step2": "Steigen Sie an der Endstation Ümraniye-Tepeüstü aus.",
+      "istRoute1Step3": "Nehmen Sie ein Taxi (ca. 10–15 Minuten).",
+      "istRoute2Title": "Öffentliche Verkehrsmittel (mehrere Umstiege):",
+      "istRoute2Step1": "Nehmen Sie die M11 Metro Richtung Gayrettepe.",
+      "istRoute2Step2": "In Gayrettepe wechseln Sie zur Metrobüs-Linie Richtung Söğütlüçeşme.",
+      "istRoute2Step3": "Steigen Sie an der Station Altunizade aus.",
+      "istRoute2Step4": "Wechseln Sie zur M5 Metro Richtung Çekmeköy.",
+      "istRoute2Step5": "Fahren Sie 5 Stationen und steigen Sie in Ihlamurkuyu aus.",
+      "istRoute2Step6": "Von dort sind es 15–20 Minuten zu Fuß.",
+      "cityTitle": "Anreise mit öffentlichen Verkehrsmitteln",
+      "cityMetroTitle": "Mit der Metro",
+      "cityMetroDesc": "M8 (Bostancı-Parseller): Steigen Sie in Mevlana aus (10–15 Min. Fußweg).\nM5 (Üsküdar-Çekmeköy): Steigen Sie in Ihlamurkuyu aus (15–20 Min. Fußweg).",
+      "cityMetrobusTitle": "Mit dem Metrobüs",
+      "cityMetrobusDesc": "Steigen Sie in Altunizade aus, wechseln Sie zur M5 Metro Richtung Çekmeköy und steigen Sie in Ihlamurkuyu aus.",
+      "busTitle": "Von Fernbusbahnhöfen",
+      "busEsenler": "Vom Esenler Otogar (europäische Seite): M1 -> Marmaray -> M4 -> M8 bis Mevlana.",
+      "busDudullu": "Vom Dudullu Terminal (asiatische Seite): Sehr nah. Nehmen Sie ein Taxi (10–15 Minuten) oder gehen Sie zur M8 Station İmes (1 Station bis Mevlana).",
+      "taxiTitle": "Mit Taxi oder Auto",
+      "taxiDesc": "Verwenden Sie Apps wie BiTaksi oder Uber. Geben Sie 'Smile Clinic Ümraniye' in Ihre Navigations-App ein.",
+      "tipsTitle": "Wichtige Reisetipps",
+      "tipsIstanbulkart": "Istanbulkart: Sie benötigen diese Karte (gelbe 'Biletmatik'-Automaten) für alle öffentlichen Verkehrsmittel.",
+      "tipsApps": "Navigations-Apps: Wir empfehlen Google Maps oder die lokale Mobiett-App.",
+      "tipsRushHour": "Stoßzeiten: Rechnen Sie mit starkem Verkehr (07:30–09:30 und 17:00–19:30)."
+    },
+    "doctors": {
+      "title": "Unsere Ärzte",
+      "subtitle": "Lernen Sie die Gründerärzte der Smile Hair Clinic kennen.",
+      "bioTitle": "Biografie",
+      "interviewTitle": "Interview",
+      "bilgin": {
+        "name": "Dr. Gökay Bilgin",
+        "title": "Haartransplantationschirurg, Arzt, Ästhetischer Mediziner",
+        "bio": [
+          "Dr. Gökay Bilgin ist Mitbegründer der Smile Hair Clinic.",
+          "Er begann seine Karriere bei der Medical Park Health Group, einer der angesehenen Gesundheitsgruppen der Region. Er erwarb sein Zertifikat für Ästhetische Medizin und Haartransplantation durch die Erforschung von Entwicklungen in ästhetischen Verfahren.",
+          "Er trat der Medicana Health Group als Haartransplantationschirurg bei und wurde kurz darauf zum stellvertretenden Chefarzt ernannt, eine Position, die er bis zur Gründung der Smile Hair Clinic innehatte. Seitdem hat er über 4000 Haartransplantationen durchgeführt.",
+          "Seine unermüdliche Leidenschaft für Entwicklung führte ihn dazu, zahlreiche Schulungen in ästhetischer Medizin und Haartransplantation zu besuchen. Dr. G. Bilgins Ruf in der Haartransplantation ist nun weltweit anerkannt, und er empfängt Patienten aus aller Welt.",
+          "Er glaubt daran, Patienten während des Haartransplantationsprozesses eine 360-Grad-Behandlung zu bieten. Er stellt sicher, dass Patienten medizinisch und chirurgisch behandelt werden, um perfekte, natürliche Ergebnisse zu erzielen, und dass eine dichte, sorgfältig geplante Transplantation den Patienten zufriedenstellt. Er bevorzugt die Verwendung von Micromotor-Graft-Extraktion und Saphir-FUE-Haartransplantationsschnitten in seinen Operationen.",
+          "Dr. Gökay Bilgin ist leidenschaftlich an der Ausbildung und beruflichen Entwicklung des medizinischen Personals interessiert. Diese Leidenschaft führte ihn und seinen Kollegen Dr. Mehmet Erdoğan dazu, die TrueTM-Philosophie zu entwickeln. Bekannt für seinen großen Sinn für Humor in seinem Team, können Sie sehen, wie sehr Dr. Bilgin seine Operationen genießt und die Bindung, die er mit seinen Patienten eingeht.",
+          "Seine größte Priorität ist der erfolgreiche Abschluss der Operation und die vollständige Transformation. Dr. G. Bilgin interessiert sich für Fantasy-Filme und verbringt seine Freizeit damit, neue zu entdecken. Er ist verheiratet und Vater eines Kindes."
+        ],
+        "interview": [
+          { "q": "Was sind Ihre Kernwerte?", "a": "Sowohl in meinem beruflichen als auch in meinem privaten Leben schätze ich eine Kultur des Lernens. Fortschritt bei der Arbeit, Entwicklung und niemals aufzuhören ist für mich sehr wichtig. Daher verbringe ich die meiste Zeit damit, unser Personal bei Smile besser auszubilden. Für mich ist Bildung eine nie endende Reise; wir müssen Perfektionismus in allem, was wir tun, vorantreiben. Zu Hause ist es für mich unbezahlbar, mit meinem Sohn neue Dinge zu entdecken, ihm neue Erfahrungen zu geben und neue Perspektiven zu finden. Es gibt nichts, was ich mehr genieße, als zu sehen, wie er entdeckt und lernt." },
+          { "q": "Wie ist Ihr Arbeitsstil in der Klinik?", "a": "Ich glaube, dass man erfolgreich und zufrieden sein wird, wenn man seine Arbeit genießt. Ich genieße diese Arbeit, nicht nur die Operation selbst, sondern die Beobachtung des gesamten Transformationsprozesses, wie ein Mann zu einem wahren Gentleman wird. Und ich liebe die Momente, in denen meine Patienten beschreiben, wie sich ihr tägliches Leben verändert hat. Zeuge einer echten Transformation im Leben der Menschen zu sein, ist die wahre Freude." },
+          { "q": "Was ist Ihr Sternzeichen?", "a": "Wassermann." },
+          { "q": "Was ist Ihr Lieblingsparfüm? Warum?", "a": "Louis Vuitton – Au Hasard. Weil es relativ neu ist. Ich liebe es, im Laufe der Jahre neue Düfte zu entdecken und auf dem Laufenden zu bleiben. Und sein holziger Charakter lässt mich geerdet fühlen." },
+          { "q": "Was ist Ihr Buch am Bett? Und warum?", "a": "Die Herr der Ringe-Reihe. Weil ich es liebe, mich in ihrem fantastischen Universum zu verlieren." },
+          { "q": "Welche waren die inspirierendsten Städte, die Sie besucht haben?", "a": "Berlin, Paris und Amsterdam. Ich bin ein echter Fan der westeuropäischen Kultur." }
+        ]
+      },
+      "erdogan": {
+        "name": "Dr. Mehmet Erdoğan",
+        "title": "Haartransplantationschirurg, Arzt, Ästhetischer Mediziner",
+        "bio": [
+          "Dr. Mehmet Erdoğan ist Mitbegründer der Smile Hair Clinic.",
+          "Er begann seine Karriere als Arzt bei der Acıbadem Health Group. Kurz darauf beschloss er, zur Medicana Health Group zu wechseln, um seiner Leidenschaft für medizinisches Management nachzugehen.",
+          "Sein starkes Geschäftstalent führte zu seiner Ernennung zum stellvertretenden Chefarzt und Direktor des Internationalen Patientencenters. Gleichzeitig erhielt er ab 2013 seine Zertifikate, um Haartransplantationschirurg und ästhetischer Mediziner zu werden. Seitdem hat er über 4000 Operationen durchgeführt. Seine Expertise in der Haartransplantation entwickelte sich in diesen Jahren weiter.",
+          "Seine fortgeschrittenen Fähigkeiten, tiefe Erfahrung, kombiniert mit seinem Verständnis für internationales medizinisches Tourismusmanagement, führten ihn dazu, 2018 die Smile Hair Clinic mit zu gründen.",
+          "Seine perfektionistische Perspektive auf Ästhetik hat ihn dazu getrieben, Fortschritte in modernen Haartransplantationstechniken zu suchen. Dr. M. Erdoğans Ruf in der Haartransplantation ist nun der eines weltweit anerkannten Profis. Er verwendet die modernsten und am weitesten verbreiteten Micromotor-Graft-Extraktion und Saphir-FUE-Haartransplantationsschnitte in seinen Operationen.",
+          "Er glaubt, dass Planung der wichtigste Schritt ist. Spenderbereichsplanung, Haaransatzdesign und Planung nach Gesichtszügen gewährleisten ein natürlich aussehendes Ergebnis.",
+          "Dr. M. Erdoğans Besessenheit von nachhaltiger Entwicklung hat ihn immer dazu ermutigt, neue Wege zur Innovation zu suchen. So entwickelten er und sein Kollege Dr. Gökay Bilgin die TrueTM-Philosophie.",
+          "Erdoğan ist bekannt für seinen aktuellen, stilvollen Modegeschmack und sein Interesse an Zigarren. Er ist ein wahrer Entdecker neuer Kulturen in musikalischer und künstlerischer Hinsicht. Sie könnten ihn während Operationen in der Klinik dabei beobachten, wie er sein ausgezeichnetes Musikrepertoire hört. Er liebt es, Golf zu spielen und verbringt seine Wochenenden damit, seine Golfkünste zu verbessern. Er ist frisch verheiratet. Er spricht Englisch und Deutsch."
+        ],
+        "interview": [
+          { "q": "Was sind Ihre Kernwerte?", "a": "Ich schätze Ästhetik und Exzellenz in fast jedem Aspekt des Lebens. Sozial liebe ich es, meine Seele mit bildender Kunst und Kultur zu nähren. Ich glaube, dass Ästhetik unser innerer Sinn ist und unsere künstlerische Kreativität leitet. Meine Aufgabe ist es, das Aussehen von Männern zum Besseren zu transformieren und ihr Leben zu beeinflussen. Daher kombiniere ich mein technisches Wissen über Haartransplantation mit meiner ästhetischen Perspektive und führe meine Arbeit als kreativer Künstler aus." },
+          { "q": "Wie ist Ihr Arbeitsstil in der Klinik?", "a": "Ich genieße die Arbeit, die ich jeden Tag mache; es ist meine Leidenschaft. Arbeit, die ohne Freude gemacht wird, bedeutet mir nicht viel. Ich fühle mich privilegiert, dieses Geschenk zu haben und mein Bestes zu tun, um unsere Techniken zu verbessern und Innovationen einzuführen." },
+          { "q": "Was ist Ihr Sternzeichen?", "a": "Krebs." },
+          { "q": "Was ist Ihr Lieblingsparfüm? Warum?", "a": "Aventus von Creed. Weil es eine raffinierte Mischung ist und den Geschmack eines gut gelebten Lebens ausdrückt." },
+          { "q": "Was ist Ihr Buch am Bett? Und warum?", "a": "Meditationen, Marcus Aurelius." },
+          { "q": "Welche waren die inspirierendsten Städte, die Sie besucht haben?", "a": "Havanna (Kuba), Siem Reap (Kambodscha), Hanoi (Vietnam). Unberührte Kulturen sind für mich faszinierender. Ich bin ein wahrer Kulturentdecker." }
+        ]
+      }
+    },
+    "beforeAfter": {
+      "title": "Vorher & Nachher",
+      "subtitle": "Sehen Sie die beeindruckenden Ergebnisse unserer Patienten"
+    },
+    "patientGuide": {
+      "title": "Patientenleitfaden",
+      "subtitle": "Alles, was Sie über Ihre Haartransplantationsreise wissen müssen",
+      "preOp": "Vor der Operation",
+      "preOpContent": "Vor Ihrer Haartransplantation befolgen Sie bitte diese Richtlinien:\n\n• Blutverdünner (Aspirin usw.) 1 Woche vorher absetzen\n• Alkohol 48 Stunden vor der Operation vermeiden\n• Vor dem Eingriff gut schlafen\n• Am Morgen der Operation ein leichtes Frühstück\n• Bequeme Kleidung mit Knöpfen tragen\n• Transport organisieren, da Sie danach nicht selbst fahren können",
+      "opDay": "Tag der Operation",
+      "opDayContent": "Am Tag Ihrer Operation:\n\n• Kommen Sie pünktlich in die Klinik (normalerweise 08:00 Uhr)\n• Der Eingriff dauert ca. 6–8 Stunden\n• Sie sind bei lokaler Betäubung wach\n• Unser medizinisches Team sorgt für Ihren Komfort\n• Sie können während des Eingriffs fernsehen, Musik hören oder sich entspannen\n• Ein leichtes Mittagessen wird bereitgestellt",
+      "postOp": "Nach der Operation",
+      "postOpContent": "Nach Ihrer Haartransplantation:\n\n• Sie erhalten detaillierte Nachsorgeanweisungen\n• Nicht berühren oder kratzen\n• Mit erhöhtem Kopf schlafen (erste Nächte)\n• Anstrengende Aktivitäten 2 Wochen vermeiden\n• Kopfhaut vor Sonne schützen\n• Alle Kontrolltermine wahrnehmen",
+      "hairWashing": "Haarewaschen nach der Transplantation",
+      "hairWashingContent": "Richtiges Haarewaschen ist wichtig:\n\n• 48 Stunden bis zur ersten Haarwäsche warten\n• Nur das spezielle Shampoo verwenden\n• Sanft mit Fingerspitzen auftragen\n• Mit lauwarmem Wasser ausspülen\n• Mit einem weichen Handtuch sanft trockentupfen\n• Den Waschplan Ihres Arztes befolgen"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Antworten auf häufige Fragen zur Haartransplantation",
+      "q1": "Wie lange sollte ich nach einer Haartransplantation eine Mütze tragen?",
+      "a1": "Vermeiden Sie enge Kopfbedeckungen für die ersten 2 Wochen. Danach können Sie lockere Mützen tragen. Vermeiden Sie jeglichen Druck auf die Transplantationszone für mindestens 1 Monat.",
+      "q2": "Wann kann ich nach der Operation wieder arbeiten?",
+      "a2": "Die meisten Patienten können nach 3–5 Tagen wieder arbeiten, abhängig von der Art ihrer Tätigkeit. Bei körperlicher Arbeit sollten Sie 1–2 Wochen warten.",
+      "q3": "Fallen die transplantierten Haare aus?",
+      "a3": "Ja, das ist normal. Die transplantierten Haare fallen 2–3 Wochen nach der Operation aus (‘Schockverlust’). Sie wachsen nach 3–4 Monaten wieder nach.",
+      "q4": "Wann sehe ich endgültige Ergebnisse?",
+      "a4": "Neue Haare beginnen nach 3–4 Monaten zu wachsen. Das endgültige Ergebnis ist nach 12–18 Monaten sichtbar.",
+      "q5": "Ist der Eingriff schmerzhaft?",
+      "a5": "Der Eingriff erfolgt unter lokaler Betäubung, daher verspüren Sie währenddessen keine Schmerzen. Danach kann es zu leichtem Unbehagen kommen.",
+      "q6": "Wann darf ich wieder Sport treiben?",
+      "a6": "Vermeiden Sie 2 Wochen lang intensiven Sport. Leichtes Gehen ist möglich. Danach können Sie langsam Ihre Routine wieder aufnehmen, aber vermeiden Sie Schweiß und Kopfkontakt."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "subtitle": "Nehmen Sie direkt Kontakt mit uns auf.",
+      "callNow": "Jetzt anrufen",
+      "whatsApp": "Auf WhatsApp schreiben",
+      "detailsTitle": "Kontaktdaten",
+      "address": "Adresse",
+      "email": "E-Mail",
+      "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+      "formTitle": "Oder senden Sie uns eine Nachricht",
+      "name": "Vollständiger Name",
+      "namePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+      "phone": "Telefon",
+      "phonePlaceholder": "Geben Sie Ihre Telefonnummer ein",
+      "message": "Ihre Nachricht",
+      "messagePlaceholder": "Beschreiben Sie Ihr Anliegen",
+      "send": "Nachricht senden",
+      "validationError": "Validierungsfehler",
+      "validationMessage": "Bitte füllen Sie alle erforderlichen Felder aus (Name, E-Mail, Telefon)",
+      "successTitle": "Nachricht gesendet",
+      "successMessage": "Danke für Ihre Nachricht. Wir melden uns so schnell wie möglich.",
+      "errorTitle": "Fehler",
+      "errorMessage": "Konnte {{url}} nicht öffnen"
+    },
+    "errors": {
+      "doctorNotFound": "Arzt nicht gefunden.",
+      "sessionNotFound": "Session nicht gefunden.",
+      "uploadFailed": "Ihre Fotos konnten nicht gespeichert werden. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
+    },
+    "poseNames": {
+      "FRONT": "Vorne",
+      "LEFT_PROFILE": "Linkes Profil",
+      "RIGHT_PROFILE": "Rechtes Profil",
+      "TOP": "Oben",
+      "BACK": "Hinten"
+    },
+    "common": {
+      "ok": "OK",
+      "close": "Schließen",
+      "error": "Fehler"
+    },
+    "language": {
+      "selectLanguage": "Sprache auswählen",
+      "changeTitle": "Sprache geändert",
+      "changeMessage": "Die Anwendung wird nun neu gestartet, um die Sprachänderungen anzuwenden.",
+      "changeMessageExpoGo": "Bitte laden Sie die App manuell neu (Gerät schütteln oder 'r' im Terminal drücken), um die Sprachänderungen anzuwenden."
+    }
+  }
+  

@@ -1,0 +1,269 @@
+{
+    "home": {
+      "welcomeTitle": "Smile Hair Clinic'e Hoş Geldiniz",
+      "welcomeSubtitle": "Analiz için fotoğraflarınızı çekmek üzere lütfen adımları takip edin.",
+      "startSession": "Fotoğraf Çekimine Başla",
+      "welcomeBackTitle": "Tekrar Hoş Geldiniz!",
+      "welcomeBackSubtitle": "Fotoğraf geçmişinizi yönetin veya yeni bir oturum başlatın.",
+      "myHistory": "Fotoğraf Geçmişim",
+      "transportation": "Ulaşım",
+      "newSession": "Yeni Fotoğraf Ekle",
+      "aboutInfo": "Smile Hair Clinic Hakkında",
+      "exploreTitle": "Kliniğimizi Keşfedin",
+      "doctors": "Doktorlarımız",
+      "beforeAfter": "Öncesi & Sonrası",
+      "patientGuide": "Hasta Rehberi",
+      "faq": "Sıkça Sorulan Sorular",
+      "contact": "İletişim"
+    },
+    "results": {
+      "title": "Fotoğraflarınızı İnceleyin",
+      "subtitle": "{{count}} fotoğraf kaydedildi.",
+      "retake": "Tekrar Çek",
+      "save": "Kaydet & Bitir",
+      "uploading": "Fotoğraflar yükleniyor..."
+    },
+    "history": {
+      "title": "Fotoğraf Geçmişim",
+      "sessionDate": "{{date}} tarihli oturum",
+      "photoCount": "{{count}} Fotoğraf",
+      "emptyMessage": "Henüz hiç fotoğraf çekilmedi.",
+      "sessionFrom": "Oturum tarihi"
+    },
+    "camera": {
+      "feedbackAnalyzing": "🔍 Analiz ediliyor...",
+      "feedbackCapturing": "📸 Fotoğraf çekiliyor...",
+      "feedbackStable": "✅ Sabit Durun",
+      "feedbackWrongAngle": "⚠️ Yanlış Açı – {{direction}} tarafa dönün",
+      "feedbackWrongAngleSlightly": "⚠️ Yanlış Açı – biraz döndürün",
+      "feedbackShaking": "🔄 Cihaz sallanıyor – sabitleyin",
+      "photoSaved": "Fotoğraf kaydedildi",
+      "transitionTop": "Üst pozisyona geçiyoruz, lütfen biraz aşağıya bakın ve telefonu biraz kaldırın",
+      "transitionLeftProfile": "Sol profil pozisyonuna geçiyoruz, lütfen başınızı hafifçe sağa çevirin",
+      "transitionRightProfile": "Sağ profil pozisyonuna geçiyoruz, lütfen başınızı hafifçe sola çevirin",
+      "transitionBack": "Arka pozisyona geçiyoruz, lütfen telefonu ters çevirin",
+      "transitionFront": "Ön pozisyona geçiyoruz",
+      "transitionGeneric": "{{poseName}} pozisyonuna geçiyoruz",
+      "photoNotSuitable": "Fotoğraf analiz için uygun değil. Lütfen tekrar deneyin.",
+      "welcomeMessagePart1": "Smile Hair Clinic'e hoş geldiniz",
+      "welcomeMessagePart2": "Yüzünüzü ortalayın ve telefonu düz tutun.",
+      "permissionTitle": "Kamera İzni Gerekli",
+      "permissionDescription": "Fotoğrafları çekebilmek için kamera erişimine ihtiyacımız var.",
+      "analyzingPhoto": "🔍 Fotoğraf analiz ediliyor..."
+    },
+    "poseGuides": {
+      "FRONT": {
+        "faceMovement": "Düz ileri bakın",
+        "phoneMovement": "Telefonu düz tutun"
+      },
+      "LEFT_PROFILE": {
+        "faceMovement": "Başınızı hafifçe sağa çevirin",
+        "phoneMovement": "Telefonu düz tutun"
+      },
+      "RIGHT_PROFILE": {
+        "faceMovement": "Başınızı hafifçe sola çevirin",
+        "phoneMovement": "Telefonu düz tutun"
+      },
+      "TOP": {
+        "faceMovement": "Aşağıya bakın",
+        "phoneMovement": "Telefonu yukarı kaldırın"
+      },
+      "BACK": {
+        "faceMovement": "Biraz daha aşağıya bakın",
+        "phoneMovement": "Telefonu başınızın üzerine kaldırın"
+      }
+    },
+    "navigation": {
+      "home": "Ana Sayfa",
+      "history": "Geçmişim",
+      "transportation": "Ulaşım",
+      "results": "Çekilen Fotoğraflar",
+      "camera": "Kamera"
+    },
+    "transportation": {
+      "title": "Ulaşım",
+      "subtitle": "Smile Clinic'e Ulaşım Rehberi",
+      "welcomeMessage": "İstanbul’a hoş geldiniz! Kliniğimize yolculuğunuzun mümkün olduğunca rahat ve sorunsuz geçmesi için bu detaylı rehberi hazırladık.",
+      "fullAddress": "Tam Adresimiz",
+      "addressLine1": "Smile Clinic",
+      "addressLine2": "Tatlısu Mahallesi, Alptekin Caddesi, No:15",
+      "addressLine3": "34774, Ümraniye, İstanbul, Türkiye",
+      "glanceTitle": "Kısaca: En Yakın Toplu Taşıma",
+      "glanceMetroM8": "En Yakın Metro (M8 Hattı): Mevlana",
+      "glanceMetroM8Desc": "Yaklaşık 10-15 dakika yürüme mesafesi.",
+      "glanceMetroM5": "Alternatif Metro (M5 Hattı): Ihlamurkuyu",
+      "glanceMetroM5Desc": "Yaklaşık 15-20 dakika yürüme mesafesi.",
+      "glanceBus": "En Yakın Otobüs Durağı: Osmangazi Caddesi",
+      "glanceBusDesc": "Yaklaşık 5-7 dakika yürüme mesafesi.",
+      "airportsTitle": "İstanbul Havalimanlarından Ulaşım",
+      "airportsDesc": "İstanbul’da iki uluslararası havalimanı bulunmaktadır. Kliniğimiz Anadolu yakasında yer aldığı için Sabiha Gökçen (SAW) daha yakın ve daha konforlu bir seçenektir.",
+      "sawTitle": "1. Sabiha Gökçen Havalimanı (SAW) - Anadolu Yakası",
+      "sawDesc": "Konum olarak en yakın ve ulaşımı en kolay havalimanıdır.",
+      "sawRoute1Title": "Önerilen Rota (Metro):",
+      "sawRoute1Step1": "M4 Metro (Kadıköy-Sabiha Gökçen) hattına Kadıköy yönünde binin.",
+      "sawRoute1Step2": "8 durak giderek Kozyatağı durağında inin.",
+      "sawRoute1Step3": "M8 Metro (Bostancı-Parseller) hattına aktarma yapın.",
+      "sawRoute1Step4": "M8 Metro’ya Parseller yönünde binin.",
+      "sawRoute1Step5": "5 durak ilerleyerek Mevlana durağında inin.",
+      "sawRoute1Step6": "“Tatlısu” çıkışından çıktıktan sonra 10-15 dakika yürüyün.",
+      "sawRoute2Title": "Alternatif (Havaalanı Servisi + Taksi):",
+      "sawRoute2Step1": "HAVABUS servisine binerek Yeni Sahra’ya geçin.",
+      "sawRoute2Step2": "Yeni Sahra’dan kısa bir taksi yolculuğu yapın (yaklaşık 15-20 dakika).",
+      "istTitle": "2. İstanbul Havalimanı (IST) - Avrupa Yakası",
+      "istDesc": "Bu havalimanı Avrupa yakasında bulunur ve yolculuk daha uzundur.",
+      "istRoute1Title": "En Kolay Rota (Havalimanı Servisi + Taksi):",
+      "istRoute1Step1": "HAVAİST-15 (Ümraniye - Tepeüstü) otobüsüne binin.",
+      "istRoute1Step2": "Son durak olan Ümraniye-Tepeüstü’ne gidin.",
+      "istRoute1Step3": "Buradan kısa bir taksi yolculuğu yapın (yaklaşık 10-15 dakika).",
+      "istRoute2Title": "Toplu Taşıma Rota (Birden Fazla Aktarma):",
+      "istRoute2Step1": "M11 Metro hattına Gayrettepe yönünde binin.",
+      "istRoute2Step2": "Gayrettepe’de Metrobüs hattına (Zincirlikuyu) Söğütlüçeşme yönüne aktarma yapın.",
+      "istRoute2Step3": "Altunizade durağında inin.",
+      "istRoute2Step4": "M5 Metro (Üsküdar-Çekmeköy) hattına Çekmeköy yönünde binin.",
+      "istRoute2Step5": "5 durak giderek Ihlamurkuyu durağında inin.",
+      "istRoute2Step6": "Ihlamurkuyu’dan 15-20 dakika yürüyün.",
+      "cityTitle": "Şehir İçi Toplu Taşıma ile Ulaşım",
+      "cityMetroTitle": "Metro ile",
+      "cityMetroDesc": "M8 (Bostancı-Parseller) Hattı: Mevlana durağında inin (10-15 dakikalık yürüme).\nM5 (Üsküdar-Çekmeköy) Hattı: Ihlamurkuyu durağında inin (15-20 dakikalık yürüme).",
+      "cityMetrobusTitle": "Metrobüs ile",
+      "cityMetrobusDesc": "Altunizade’de inerek M5 Metro’ya (Çekmeköy yönü) aktarma yapın ve Ihlamurkuyu’da inin.",
+      "busTitle": "Şehirlerarası Otogarlardan Ulaşım",
+      "busEsenler": "Esenler Otogar (Avrupa Yakası): M1 -> Marmaray -> M4 -> M8 yoluyla Mevlana.",
+      "busDudullu": "Dudullu Terminali (Anadolu Yakası): Çok yakındır. 10-15 dakika taksi veya yürüyerek M8 İmes durağına gidip 1 durakla Mevlana’ya ulaşabilirsiniz.",
+      "taxiTitle": "Taksi veya Özel Araç ile",
+      "taxiDesc": "BiTaksi veya Uber gibi uygulamaları kullanabilirsiniz. Navigasyon uygulamasına 'Smile Clinic Ümraniye' yazmanız yeterlidir.",
+      "tipsTitle": "Önemli Seyahat Tavsiyeleri",
+      "tipsIstanbulkart": "İstanbulkart: Toplu taşıma kullanmak için bu karta ihtiyacınız vardır (‘Biletmatik’lerden satın alabilirsiniz).",
+      "tipsApps": "Navigasyon Uygulamaları: Google Maps veya yerel Mobiett uygulamasını öneririz.",
+      "tipsRushHour": "Yoğun Saatler: 07:30-09:30 ve 17:00-19:30 arasında trafiğin yoğun olabileceğini unutmayın."
+    },
+    "doctors": {
+      "title": "Doktorlarımız",
+      "subtitle": "Smile Hair Clinic'in kurucu doktorlarıyla tanışın.",
+      "bioTitle": "Biyografi",
+      "interviewTitle": "Röportaj",
+      "bilgin": {
+        "name": "Dr. Gökay Bilgin",
+        "title": "Saç Ekimi Cerrahı, Tıp Doktoru, Tıbbi Estetik Hekimi",
+        "bio": [
+          "Dr. Gökay Bilgin, Smile Hair Clinic'in kurucu ortağıdır.",
+          "Kariyerine bölgenin saygın sağlık gruplarından Medical Park Sağlık Grubu'nda başladı. Estetik prosedürlerdeki gelişmeleri araştırarak Tıbbi Estetik ve Saç Ekimi Eğitimi sertifikasını aldı.",
+          "Medicana Sağlık Grubu'na Saç Ekimi Cerrahı olarak katıldı ve kısa süre sonra Başhekim Yardımcısı olarak atandı, Smile Hair Clinic'i kurana kadar bu görevde kaldı. O zamandan beri 4000'den fazla saç ekimi operasyonu gerçekleştirdi.",
+          "Gelişime olan tutkusu onu tıbbi estetik ve saç ekimi konularında sayısız eğitim programına katılmaya yöneltti. Dr. G. Bilgin'in saç ekimi konusundaki ünü artık dünya çapında tanınmakta ve dünyanın her yerinden hasta kabul etmektedir.",
+          "Saç ekimi sürecinde hastalara 360 derece tedavi sağlamaya inanır. Hastaların mükemmel, doğal sonuçlar elde etmek için tıbbi ve cerrahi olarak tedavi edildiğinden ve doğru planlanmış yoğun, sıkı bir ekimin hastayı memnun edeceğinden emin olur. Operasyonlarında Micromotor Graft çıkarma ve Sapphire FUE Saç Ekimi kesilerini kullanmayı tercih eder.",
+          "Dr. Gökay Bilgin, tıbbi personelin eğitimi ve mesleki gelişimi konusunda tutkuludur. Bu tutku, onu ve meslektaşı Dr. Mehmet Erdoğan'ı TrueTM Felsefesini geliştirmeye yöneltti. Ekibi arasında büyük bir mizah anlayışıyla tanınan Dr. Bilgin'in ameliyatlarını ne kadar keyifle yaptığını ve hastalarıyla kurduğu bağı görebilirsiniz.",
+          "En büyük önceliği, operasyonun başarılı bir şekilde tamamlanması ve toplam dönüşümdür. Dr. G. Bilgin fantastik filmlerle ilgilenir ve boş zamanlarını yenilerini keşfetmeye ayırır. Evli ve bir çocuk babasıdır."
+        ],
+        "interview": [
+          { "q": "Temel değerleriniz nelerdir?", "a": "Hem profesyonel hem de özel hayatımda öğrenme kültürüne değer veriyorum. İşte ilerlemek, gelişmek ve asla durmamak benim için çok önemli. Bu nedenle zamanımın çoğunu Smile'daki personelimizi daha iyi eğitmeye ayırıyorum. Benim için eğitim hiç bitmeyen bir yolculuktur; yaptığımız her şeyde mükemmelliyetçiliği ilerletmemiz gerekiyor. Evde, oğlumla yeni şeyler keşfetmek, ona yeni deneyimler yaşatmak ve yeni bakış açıları bulmak benim için paha biçilmez. Onun keşfetmesini ve öğrenmesini izlemekten daha keyifli bir şey yok." },
+          { "q": "Kliniğinizdeki çalışma tarzınız nedir?", "a": "İşinizden keyif alırsanız başarılı ve memnun olacağınıza inanıyorum. Bu işten keyif alıyorum, sadece operasyonun kendisinden değil, tüm dönüşüm sürecini gözlemlemekten, bir erkeğin nasıl Gerçek Bir Centilmen'e dönüştüğünü görmekten. Ve hastalarımın günlük hayatlarının nasıl değiştiğini anlattıkları anları seviyorum. İnsanların hayatlarında gerçek bir dönüşüme tanık olmak gerçek sevinçtir." },
+          { "q": "Burcunuz nedir?", "a": "Kova." },
+          { "q": "Favori parfümünüz nedir? Neden?", "a": "Louis Vuitton – Au Hasard. Çünkü nispeten yeni. Yıllar içinde yeni kokular keşfetmeyi ve güncel kalmayı seviyorum. Ve odunsu karakteri beni toprağa bağlı hissettiriyor." },
+          { "q": "Yatağınızın başındaki kitabınız nedir? Ve neden?", "a": "Yüzüklerin Efendisi Serisi. Çünkü fantastik evreninde kaybolmayı seviyorum." },
+          { "q": "Ziyaret ettiğiniz en ilham verici şehirler hangileriydi?", "a": "Berlin, Paris ve Amsterdam. Batı Avrupa kültürünün gerçek bir hayranıyım." }
+        ]
+      },
+      "erdogan": {
+        "name": "Dr. Mehmet Erdoğan",
+        "title": "Saç Ekimi Cerrahı, Tıp Doktoru, Tıbbi Estetik Hekimi",
+        "bio": [
+          "Dr. Mehmet Erdoğan, Smile Hair Clinic'in kurucu ortağıdır.",
+          "Kariyerine Acıbadem Sağlık Grubu'nda tıp doktoru olarak başladı. Kısa süre sonra, tıbbi yönetim tutkusunu sürdürmek için Medicana Sağlık Grubu'na geçmeye karar verdi.",
+          "Güçlü iş zekası, onu Başhekim Yardımcısı ve Uluslararası Hasta Merkezi Direktörü olarak atanmasına yol açtı. Aynı zamanda, 2013'ten başlayarak, Saç Ekimi Cerrahı ve Tıbbi-Estetik Hekim olmak için sertifikalarını aldı. O zamandan beri 4000'den fazla operasyon gerçekleştirdi. Saç ekimi konusundaki uzmanlığı bu yıllar boyunca ilerledi.",
+          "Gelişmiş becerileri, derin deneyimi, uluslararası tıbbi turizm yönetimi anlayışıyla birleşince, 2018'de Smile Hair Clinic'i kurmaya yöneltti.",
+          "Estetik konusundaki mükemmelliyetçi bakış açısı, onu modern saç ekimi tekniklerinde ilerlemeler aramaya yöneltti. Dr. M. Erdoğan'ın saç ekimi konusundaki ünü artık dünya çapında tanınan bir profesyonel seviyesindedir. Operasyonlarında en güncel ve yaygın olarak kabul edilen Micromotor Graft çıkarma ve Sapphire FUE Saç Ekimi kesilerini kullanır.",
+          "Planlamanın en önemli adım olduğuna inanır. Donör alan planlaması, saç çizgisi tasarımı ve yüz özelliklerine göre planlama doğal görünümlü bir sonuç sağlar.",
+          "Dr. M. Erdoğan'ın sürdürülebilir gelişime olan takıntısı, onu her zaman daha iyi için yenilik yolları aramaya teşvik etti. Bu, onu ve meslektaşı Dr. Gökay Bilgin'i TrueTM Felsefesini geliştirmeye yöneltti.",
+          "Erdoğan, güncel, şık moda anlayışı ve puro ilgisiyle tanınır. Müzikal ve sanatsal boyutlarda yeni kültürlerin gerçek bir kaşifidir. Ameliyatlar sırasında kliniğinde seçkin müzik repertuarını dinlerken görebilirsiniz. Golf oynamayı sever ve hafta sonlarını golf becerilerini geliştirmeye ayırır. Yeni evlidir. İngilizce ve Almanca bilmektedir."
+        ],
+        "interview": [
+          { "q": "Temel değerleriniz nelerdir?", "a": "Hayatın neredeyse her yönünde estetik ve mükemmelliğe değer veriyorum. Sosyal olarak, ruhumu güzel sanatlarla ve kültürle beslemeyi seviyorum. Estetiğin içsel duyumuz olduğuna ve sanatsal yaratıcılığımızı yönlendirdiğine inanıyorum. İşim erkeklerin görünümlerini daha iyiye dönüştürmek ve hayatlarını etkilemektir. Bu nedenle, saç ekimi konusundaki teknik bilgimi estetik bakış açımla birleştirip işimi yaratıcı bir sanatçı olarak yapıyorum." },
+          { "q": "Kliniğinizdeki çalışma tarzınız nedir?", "a": "Her gün yaptığım işten keyif alıyorum; bu benim tutkum. Keyif alınmadan yapılan iş benim için çok anlam ifade etmiyor. Bu hediyeye sahip olmak ve tekniklerimizi geliştirmek ve yenilikler getirmek için elimden geleni yapabilmek ayrıcalık hissediyorum." },
+          { "q": "Burcunuz nedir?", "a": "Yengeç." },
+          { "q": "Favori parfümünüz nedir? Neden?", "a": "Creed'in Aventus'u. Çünkü sofistike bir karışım ve iyi yaşanmış bir hayatın tadını ifade ediyor." },
+          { "q": "Yatağınızın başındaki kitabınız nedir? Ve neden?", "a": "Düşünceler, Marcus Aurelius." },
+          { "q": "Ziyaret ettiğiniz en ilham verici şehirler hangileriydi?", "a": "Havana (Küba), Siem Reap (Kamboçya), Hanoi (Vietnam). Dokunulmamış kültürler benim için daha büyüleyici. Gerçek bir kültür kaşifiyim." }
+        ]
+      }
+    },
+    "beforeAfter": {
+      "title": "Öncesi & Sonrası",
+      "subtitle": "Hastalarımızın etkileyici sonuçlarını görün"
+    },
+    "patientGuide": {
+      "title": "Hasta Rehberi",
+      "subtitle": "Saç ekimi yolculuğunuz hakkında bilmeniz gereken her şey",
+      "preOp": "Operasyon Öncesi",
+      "preOpContent": "Saç ekimi operasyonundan önce lütfen şu talimatlara uyun:\n\n• Aspirin vb. kan sulandırıcı ilaçları operasyondan 1 hafta önce bırakın\n• Operasyondan 48 saat önce alkol tüketmeyin\n• Operasyon öncesi gece iyi uyuyun\n• Operasyon sabahı hafif bir kahvaltı yapın\n• Rahat ve önden düğmeli kıyafetler giyin\n• Operasyondan sonra araç kullanamayacağınız için ulaşım ayarlayın",
+      "opDay": "Operasyon Günü",
+      "opDayContent": "Operasyon günü:\n\n• Kliniğe zamanında gelin (genellikle 08:00)\n• Operasyon yaklaşık 6-8 saat sürer\n• İşlem sırasında lokal anestezi uygulanır\n• Tıbbi ekibimiz konforunuzu sağlayacaktır\n• Televizyon izleyebilir, müzik dinleyebilir veya dinlenebilirsiniz\n• Hafif bir öğle yemeği verilecektir",
+      "postOp": "Operasyon Sonrası",
+      "postOpContent": "Operasyon sonrasında:\n\n• Ayrıntılı bakım talimatları verilecektir\n• Ekilen bölgeye dokunmayın veya kaşımayın\n• İlk birkaç gece başınızı yüksek tutarak uyuyun\n• En az 2 hafta yoğun aktivitelerden kaçının\n• Güneş ışığından korunun\n• Tüm kontrol randevularınıza katılın",
+      "hairWashing": "Saç Yıkama",
+      "hairWashingContent": "Doğru saç yıkama iyileşme için çok önemlidir:\n\n• İlk yıkama için 48 saat bekleyin\n• Yalnızca kliniğin verdiği özel şampuanı kullanın\n• Şampuanı parmak uçlarıyla nazikçe uygulayın, tırnak kullanmayın\n• Ilık suyla durulayın, sıcak su kullanmayın\n• Yumuşak bir havluyla nazikçe kurulayın, ovalamayın\n• Doktorunuzun verdiği yıkama takvimine uyun"
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "subtitle": "Saç ekimi hakkında sık sorulan soruların cevapları",
+      "q1": "Saç ekiminden sonra ne kadar süre şapka takmalıyım?",
+      "a1": "İlk 2 hafta sıkı şapka takmamalısınız. Bu süreden sonra gevşek yapılı şapkalar takabilirsiniz. En az 1 ay ekim bölgesine baskı yapacak her türlü başlıktan kaçının.",
+      "q2": "Operasyondan sonra işe ne zaman dönebilirim?",
+      "a2": "Çoğu hasta, operasyon sonrası 3-5 gün içinde işine dönebilir. Fiziksel güç gerektiren işlerde çalışıyorsanız 1-2 hafta beklemeniz gerekebilir.",
+      "q3": "Ekilen saçlar dökülecek mi?",
+      "a3": "Evet, bu normaldir. Ekilen saçlar operasyondan 2-3 hafta sonra dökülür. Bu 'şok dökülme' olarak adlandırılır. Yeni saçlar 3-4 ay sonra aynı foliküllerden tekrar çıkar.",
+      "q4": "Nihai sonuçları ne zaman görürüm?",
+      "a4": "3-4 ay sonra yeni saçlar çıkmaya başlar. Saçlar 12-18 ay boyunca kalınlaşmaya ve çoğalmaya devam eder. Nihai sonuçlar genellikle 12-18 ay sonra görülür.",
+      "q5": "İşlem acılı mı?",
+      "a5": "İşlem lokal anestezi altında yapılır, bu nedenle operasyon sırasında ağrı hissetmezsiniz. Sonraki günlerde hafif ağrı veya hassasiyet olabilir, doktorunuzun reçete ettiği ilaçlarla kontrol altına alınabilir.",
+      "q6": "Operasyondan sonra spor yapabilir miyim?",
+      "a6": "En az 2 hafta yoğun spor aktivitelerinden kaçınmalısınız. Yürüyüş gibi hafif aktiviteler uygundur. 2 hafta sonra yavaşça normal spor rutininize dönebilirsiniz ancak terlemeye veya darbe almaya neden olabilecek aktivitelerden kaçının."
+    },
+    "contact": {
+      "title": "İletişim",
+      "subtitle": "Bizimle direkt iletişime geçin.",
+      "callNow": "Hemen Ara",
+      "whatsApp": "WhatsApp’tan Yaz",
+      "detailsTitle": "İletişim Bilgileri",
+      "address": "Adres",
+      "email": "E-Posta",
+      "emailPlaceholder": "E-Posta adresinizi girin",
+      "formTitle": "Veya Bize Mesaj Gönderin",
+      "name": "Ad Soyad",
+      "namePlaceholder": "Adınızı ve soyadınızı girin",
+      "phone": "Telefon",
+      "phonePlaceholder": "Telefon numaranızı girin",
+      "message": "Mesajınız",
+      "messagePlaceholder": "Sorularınızı veya endişelerinizi bize iletin",
+      "send": "Mesaj Gönder",
+      "validationError": "Doğrulama Hatası",
+      "validationMessage": "Lütfen tüm gerekli alanları doldurun (Ad, E-Posta, Telefon)",
+      "successTitle": "Mesaj Gönderildi",
+      "successMessage": "Bizimle iletişime geçtiğiniz için teşekkür ederiz. En kısa sürede size geri dönüş yapacağız.",
+      "errorTitle": "Hata",
+      "errorMessage": "{{url}} açılamadı"
+    },
+    "errors": {
+      "doctorNotFound": "Doktor bulunamadı.",
+      "sessionNotFound": "Oturum bulunamadı.",
+      "uploadFailed": "Fotoğraflarınız kaydedilemedi. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin."
+    },
+    "poseNames": {
+      "FRONT": "Ön",
+      "LEFT_PROFILE": "Sol Profil",
+      "RIGHT_PROFILE": "Sağ Profil",
+      "TOP": "Üst",
+      "BACK": "Arka"
+    },
+    "common": {
+      "ok": "Tamam",
+      "close": "Kapat",
+      "error": "Hata"
+    },
+    "language": {
+      "selectLanguage": "Dil Seçin",
+      "changeTitle": "Dil Değiştirildi",
+      "changeMessage": "Dil değişikliklerini uygulamak için uygulama yeniden başlatılacak.",
+      "changeMessageExpoGo": "Dil değişikliğini uygulamak için lütfen uygulamayı manuel olarak yeniden yükleyin (cihazı sallayın veya terminalde 'r' tuşuna basın)."
+    }
+  }
+  

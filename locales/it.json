@@ -1,0 +1,269 @@
+{
+    "home": {
+      "welcomeTitle": "Benvenuto alla Smile Hair Clinic",
+      "welcomeSubtitle": "Segui i passaggi per scattare le tue foto per l’analisi.",
+      "startSession": "Inizia la Sessione Fotografica",
+      "welcomeBackTitle": "Bentornato!",
+      "welcomeBackSubtitle": "Gestisci la tua cronologia o avvia una nuova sessione.",
+      "myHistory": "Cronologia Foto",
+      "transportation": "Come Arrivare",
+      "newSession": "Aggiungi Nuova Foto",
+      "aboutInfo": "Informazioni sulla Smile Hair Clinic",
+      "exploreTitle": "Esplora la Nostra Clinica",
+      "doctors": "I Nostri Medici",
+      "beforeAfter": "Prima & Dopo",
+      "patientGuide": "Guida per il Paziente",
+      "faq": "Domande Frequenti",
+      "contact": "Contattaci"
+    },
+    "results": {
+      "title": "Rivedi le Tue Foto",
+      "subtitle": "Tutte le {{count}} foto sono state salvate.",
+      "retake": "Ripeti Foto",
+      "save": "Salva e Termina",
+      "uploading": "Caricamento foto..."
+    },
+    "history": {
+      "title": "Cronologia Foto",
+      "sessionDate": "Sessione del {{date}}",
+      "photoCount": "{{count}} Foto",
+      "emptyMessage": "Nessuna foto ancora registrata.",
+      "sessionFrom": "Sessione da"
+    },
+    "camera": {
+      "feedbackAnalyzing": "🔍 Analisi in corso...",
+      "feedbackCapturing": "📸 Scatto foto...",
+      "feedbackStable": "✅ Rimani stabile",
+      "feedbackWrongAngle": "⚠️ Angolazione errata – gira verso {{direction}}",
+      "feedbackWrongAngleSlightly": "⚠️ Angolazione errata – ruota leggermente",
+      "feedbackShaking": "🔄 Il dispositivo si sta muovendo – stabilizzalo",
+      "photoSaved": "Foto salvata",
+      "transitionTop": "Passiamo alla posizione superiore, guarda leggermente in basso e solleva il telefono",
+      "transitionLeftProfile": "Passiamo al profilo sinistro, gira leggermente la testa verso destra",
+      "transitionRightProfile": "Passiamo al profilo destro, gira leggermente la testa verso sinistra",
+      "transitionBack": "Passiamo alla posa posteriore, capovolgi il telefono",
+      "transitionFront": "Passiamo alla posa frontale",
+      "transitionGeneric": "Passiamo alla posa {{poseName}}",
+      "photoNotSuitable": "La foto non è adatta all'analisi. Per favore riprova.",
+      "welcomeMessagePart1": "Benvenuto alla Smile Hair Clinic",
+      "welcomeMessagePart2": "Centra il tuo viso e tieni il telefono dritto.",
+      "permissionTitle": "Permesso Fotocamera Necessario",
+      "permissionDescription": "Abbiamo bisogno dell'accesso alla fotocamera per scattare le foto.",
+      "analyzingPhoto": "🔍 Analisi della foto in corso..."
+    },
+    "poseGuides": {
+      "FRONT": {
+        "faceMovement": "Guarda dritto avanti",
+        "phoneMovement": "Tieni il telefono dritto"
+      },
+      "LEFT_PROFILE": {
+        "faceMovement": "Gira leggermente la testa verso destra",
+        "phoneMovement": "Tieni il telefono dritto"
+      },
+      "RIGHT_PROFILE": {
+        "faceMovement": "Gira leggermente la testa verso sinistra",
+        "phoneMovement": "Tieni il telefono dritto"
+      },
+      "TOP": {
+        "faceMovement": "Guarda in basso",
+        "phoneMovement": "Solleva il telefono"
+      },
+      "BACK": {
+        "faceMovement": "Guarda più verso il basso",
+        "phoneMovement": "Solleva il telefono sopra la testa"
+      }
+    },
+    "navigation": {
+      "home": "Home",
+      "history": "Cronologia",
+      "transportation": "Come Arrivare",
+      "results": "Foto Acquisite",
+      "camera": "Fotocamera"
+    },
+    "transportation": {
+      "title": "Come Arrivare",
+      "subtitle": "La tua guida per la Smile Clinic",
+      "welcomeMessage": "Benvenuto a Istanbul! Abbiamo preparato questa guida dettagliata per rendere il tuo viaggio verso la nostra clinica semplice e senza stress.",
+      "fullAddress": "Indirizzo Completo",
+      "addressLine1": "Smile Clinic",
+      "addressLine2": "Tatlısu Mahallesi, Alptekin Caddesi, No:15",
+      "addressLine3": "34774, Ümraniye, Istanbul, Turchia",
+      "glanceTitle": "In breve: Trasporto Pubblico più Vicino",
+      "glanceMetroM8": "Metro più vicina (Linea M8): Mevlana",
+      "glanceMetroM8Desc": "Circa 10-15 minuti a piedi.",
+      "glanceMetroM5": "Metro alternativa (Linea M5): Ihlamurkuyu",
+      "glanceMetroM5Desc": "Circa 15-20 minuti a piedi.",
+      "glanceBus": "Fermata autobus più vicina: Osmangazi Caddesi",
+      "glanceBusDesc": "Circa 5-7 minuti a piedi.",
+      "airportsTitle": "Arrivo dagli Aeroporti di Istanbul",
+      "airportsDesc": "Istanbul ha due aeroporti internazionali. La nostra clinica si trova sul lato asiatico, quindi Sabiha Gökçen (SAW) è l'opzione più vicina e conveniente.",
+      "sawTitle": "1. Dall’Aeroporto Sabiha Gökçen (SAW) - Lato Asiatico",
+      "sawDesc": "Questo è l’aeroporto raccomandato per vicinanza e comodità.",
+      "sawRoute1Title": "Percorso consigliato (Metro):",
+      "sawRoute1Step1": "Prendi la metro M4 (Kadıköy-Sabiha Gökçen) verso Kadıköy.",
+      "sawRoute1Step2": "Viaggia per 8 fermate e scendi a Kozyatağı.",
+      "sawRoute1Step3": "Cambia con la linea M8 (Bostancı-Parseller).",
+      "sawRoute1Step4": "Prendi la M8 verso Parseller.",
+      "sawRoute1Step5": "Viaggia per 5 fermate e scendi a Mevlana.",
+      "sawRoute1Step6": "Dall’uscita 'Tatlısu', cammina per 10-15 minuti.",
+      "sawRoute2Title": "Alternativa (Navetta Aeroporto + Taxi):",
+      "sawRoute2Step1": "Prendi il servizio HAVABUS fino a Yeni Sahra.",
+      "sawRoute2Step2": "Da Yeni Sahra prendi un breve taxi (circa 15-20 minuti).",
+      "istTitle": "2. Dall’Aeroporto di Istanbul (IST) - Lato Europeo",
+      "istDesc": "Questo aeroporto si trova sul lato europeo, il viaggio è più lungo.",
+      "istRoute1Title": "Percorso più semplice (Navetta Aeroporto + Taxi):",
+      "istRoute1Step1": "Prendi la navetta HAVAİST-15 (Ümraniye - Tepeüstü).",
+      "istRoute1Step2": "Scendi al capolinea, Ümraniye-Tepeüstü.",
+      "istRoute1Step3": "Prendi un breve taxi (circa 10-15 minuti).",
+      "istRoute2Title": "Trasporto Pubblico (Più cambi):",
+      "istRoute2Step1": "Prendi la metro M11 verso Gayrettepe.",
+      "istRoute2Step2": "A Gayrettepe cambia per il Metrobüs (Zincirlikuyu) verso Söğütlüçeşme.",
+      "istRoute2Step3": "Scendi a Altunizade.",
+      "istRoute2Step4": "Cambia con la metro M5 (Üsküdar-Çekmeköy) verso Çekmeköy.",
+      "istRoute2Step5": "Viaggia per 5 fermate e scendi a Ihlamurkuyu.",
+      "istRoute2Step6": "Da Ihlamurkuyu cammina per 15-20 minuti.",
+      "cityTitle": "Arrivo con il Trasporto Pubblico",
+      "cityMetroTitle": "In Metro",
+      "cityMetroDesc": "Linea M8 (Bostancı-Parseller): Scendi a Mevlana (10-15 min a piedi).\nLinea M5 (Üsküdar-Çekmeköy): Scendi a Ihlamurkuyu (15-20 min a piedi).",
+      "cityMetrobusTitle": "In Metrobüs",
+      "cityMetrobusDesc": "Scendi a Altunizade, cambia per la M5 (direzione Çekmeköy) e scendi a Ihlamurkuyu.",
+      "busTitle": "Dalle Stazioni degli Autobus Interurbani",
+      "busEsenler": "Da Esenler Otogar (Lato europeo): Prendi M1 -> Marmaray -> M4 -> M8 fino a Mevlana.",
+      "busDudullu": "Da Dudullu Terminal (Lato asiatico): Molto vicino. Taxi 10-15 minuti o cammina fino alla M8 İmes (1 fermata da Mevlana).",
+      "taxiTitle": "In Taxi o Auto Privata",
+      "taxiDesc": "Usa app come BiTaksi o Uber. Inserisci 'Smile Clinic Ümraniye' nel navigatore.",
+      "tipsTitle": "Suggerimenti Importanti",
+      "tipsIstanbulkart": "Istanbulkart: Necessaria per tutti i mezzi pubblici. Acquistabile alle macchinette 'Biletmatik'.",
+      "tipsApps": "App di Navigazione: Consigliamo Google Maps o l'app locale Mobiett.",
+      "tipsRushHour": "Orari di punta: Forte traffico 07:30-09:30 e 17:00-19:30."
+    },
+    "doctors": {
+      "title": "I Nostri Medici",
+      "subtitle": "Incontra i medici fondatori della Smile Hair Clinic.",
+      "bioTitle": "Biografia",
+      "interviewTitle": "Intervista",
+      "bilgin": {
+        "name": "Dr. Gökay Bilgin",
+        "title": "Chirurgo del trapianto di capelli, Medico, Medico estetico",
+        "bio": [
+          "Dr. Gökay Bilgin è il co-fondatore della Smile Hair Clinic.",
+          "Ha iniziato la sua carriera al Medical Park Health Group, uno dei gruppi sanitari rispettati della regione. Ha ottenuto il suo certificato di educazione in estetica medica e trapianto di capelli ricercando gli sviluppi nelle procedure estetiche.",
+          "Si è unito al Medicana Health Group come chirurgo del trapianto di capelli ed è stato presto nominato vice medico capo, esercitando fino alla co-fondazione della Smile Hair Clinic. Da allora ha completato oltre 4000 procedure di trapianto di capelli.",
+          "La sua infinita passione per lo sviluppo lo ha portato a partecipare a numerose sessioni di formazione su estetica medica e trapianto di capelli. La reputazione del Dr. G. Bilgin nel trapianto di capelli è ora riconosciuta a livello globale, accogliendo pazienti da tutto il mondo.",
+          "Crede nel fornire un trattamento a 360 gradi ai pazienti durante il processo di trapianto di capelli. Si assicura che i pazienti siano trattati medicialmente e chirurgicamente per ottenere risultati perfetti e naturali, e che un trapianto denso e stretto, pianificato correttamente, soddisferà il paziente. Preferisce usare l'estrazione di innesto Micromotor e le incisioni di trapianto di capelli FUE Zaffiro nelle sue operazioni.",
+          "Dr. Gökay Bilgin è appassionato della formazione e dello sviluppo professionale del personale medico. Questa passione lo ha portato, insieme al suo collega Dr. Mehmet Erdoğan, a sviluppare la Filosofia TrueTM. Conosciuto per il suo grande senso dell'umorismo tra il suo team, puoi vedere quanto il Dr. Bilgin si goda le sue chirurgie e il legame che forma con i suoi pazienti.",
+          "La sua massima priorità è il completamento con successo dell'operazione e la trasformazione totale. Dr. G. Bilgin è interessato ai film fantasy e passa il suo tempo libero a scoprirne di nuovi. È sposato e padre di un figlio."
+        ],
+        "interview": [
+          { "q": "Quali sono i tuoi valori fondamentali?", "a": "Sia nella mia vita professionale che privata, apprezzo una cultura dell'apprendimento. Progredire al lavoro, svilupparsi e non fermarsi mai è molto importante per me. Quindi passo la maggior parte del mio tempo a formare meglio il nostro personale a Smile. Per me, l'educazione è un viaggio senza fine; dobbiamo far progredire il perfezionismo in tutto ciò che facciamo. A casa, scoprire nuove cose con mio figlio, dargli nuove esperienze e trovare nuove prospettive è inestimabile per me. Non c'è nulla che mi piaccia di più che guardarlo scoprire e imparare." },
+          { "q": "Qual è il tuo stile di lavoro in clinica?", "a": "Credo che se ti piace il tuo lavoro, avrai successo e sarai soddisfatto. Mi piace questo lavoro, non solo l'operazione stessa, ma osservare l'intero processo di trasformazione, come un uomo si trasforma in un vero gentiluomo. E amo i momenti in cui i miei pazienti descrivono come la loro vita quotidiana è cambiata. Essere testimone di una vera trasformazione nella vita delle persone è la vera gioia." },
+          { "q": "Qual è il tuo segno zodiacale?", "a": "Acquario." },
+          { "q": "Qual è il tuo profumo preferito? Perché?", "a": "Louis Vuitton – Au Hasard. Perché è relativamente nuovo. Amo scoprire nuovi profumi nel corso degli anni e rimanere aggiornato. E il suo carattere legnoso mi fa sentire radicato alla terra." },
+          { "q": "Qual è il tuo libro da comodino? E perché?", "a": "La serie Il Signore degli Anelli. Perché amo perdermi nel suo universo fantastico." },
+          { "q": "Quali erano le città più ispiratrici che hai visitato?", "a": "Berlino, Parigi e Amsterdam. Sono un vero fan della cultura dell'Europa occidentale." }
+        ]
+      },
+      "erdogan": {
+        "name": "Dr. Mehmet Erdoğan",
+        "title": "Chirurgo del trapianto di capelli, Medico, Medico estetico",
+        "bio": [
+          "Dr. Mehmet Erdoğan è il co-fondatore della Smile Hair Clinic.",
+          "Ha iniziato la sua carriera come medico al Acıbadem Health Group. Poco dopo, ha deciso di trasferirsi al Medicana Health Group per perseguire la sua passione per la gestione medica.",
+          "La sua forte acume commerciale ha portato alla sua nomina come vice medico capo e direttore del Centro Pazienti Internazionali. Contemporaneamente, a partire dal 2013, ha ottenuto le sue certificazioni per diventare chirurgo del trapianto di capelli e medico estetico. Ha eseguito oltre 4000 operazioni da allora. La sua esperienza nel trapianto di capelli è progredita durante quegli anni.",
+          "Le sue abilità avanzate, la sua profonda esperienza, combinate con la sua comprensione della gestione del turismo medico internazionale, lo hanno portato a co-fondare la Smile Hair Clinic nel 2018.",
+          "La sua prospettiva perfezionista sull'estetica lo ha spinto a cercare progressi nelle moderne tecniche di trapianto di capelli. La reputazione del Dr. M. Erdoğan nel trapianto di capelli è ora quella di un professionista riconosciuto a livello globale. Usa le estrazioni di innesto Micromotor e le incisioni di trapianto di capelli FUE Zaffiro più attuali e ampiamente accettate nelle sue operazioni.",
+          "Crede che la pianificazione sia il passo più cruciale. La pianificazione dell'area donatrice, il design della linea dei capelli e la pianificazione secondo le caratteristiche facciali assicurano un risultato dall'aspetto naturale.",
+          "L'ossessione del Dr. M. Erdoğan per lo sviluppo sostenibile lo ha sempre incoraggiato a cercare nuovi modi per innovare per il meglio. È così che lui e il suo collega Dr. Gökay Bilgin hanno sviluppato la Filosofia TrueTM.",
+          "Erdoğan è conosciuto per il suo senso della moda attuale ed elegante e il suo interesse per i sigari. È un vero esploratore di nuove culture nelle dimensioni musicali e artistiche. Potresti vederlo ascoltare il suo repertorio musicale distinto in clinica durante le chirurgie. Ama giocare a golf e passa i suoi fine settimana a migliorare le sue abilità nel golf. È appena sposato. È competente in inglese e tedesco."
+        ],
+        "interview": [
+          { "q": "Quali sono i tuoi valori fondamentali?", "a": "Apprezzo l'estetica e l'eccellenza in quasi ogni aspetto della vita. Socialmente, amo nutrire la mia anima con le belle arti e la cultura. Credo che l'estetica sia il nostro senso interiore e guidi la nostra creatività artistica. Il mio lavoro è trasformare l'aspetto degli uomini in meglio e impattare le loro vite. Pertanto, combino la mia conoscenza tecnica del trapianto di capelli con la mia prospettiva estetica ed eseguo il mio lavoro come un artista creativo." },
+          { "q": "Qual è il tuo stile di lavoro in clinica?", "a": "Mi piace il lavoro che faccio ogni giorno; è la mia passione. Il lavoro fatto senza piacere non significa molto per me. Mi sento privilegiato di avere questo dono e di essere in grado di fare del mio meglio per migliorare le nostre tecniche e introdurre innovazioni." },
+          { "q": "Qual è il tuo segno zodiacale?", "a": "Cancro." },
+          { "q": "Qual è il tuo profumo preferito? Perché?", "a": "Aventus di Creed. Perché è una miscela sofisticata ed esprime il gusto di una vita ben vissuta." },
+          { "q": "Qual è il tuo libro da comodino? E perché?", "a": "Meditazioni, Marco Aurelio." },
+          { "q": "Quali erano le città più ispiratrici che hai visitato?", "a": "L'Avana (Cuba), Siem Reap (Cambogia), Hanoi (Vietnam). Le culture intatte sono più affascinanti per me. Sono un vero esploratore di cultura." }
+        ]
+      }
+    },
+    "beforeAfter": {
+      "title": "Prima & Dopo",
+      "subtitle": "Guarda i risultati straordinari dei nostri pazienti"
+    },
+    "patientGuide": {
+      "title": "Guida per il Paziente",
+      "subtitle": "Tutto ciò che devi sapere sul tuo percorso di trapianto di capelli",
+      "preOp": "Prima dell’Operazione",
+      "preOpContent": "Prima dell’operazione di trapianto di capelli, segui queste indicazioni:\n\n• Smetti di assumere farmaci fluidificanti del sangue 1 settimana prima\n• Evita l’alcol 48 ore prima\n• Dormi bene la notte precedente\n• Fai una colazione leggera il giorno dell’operazione\n• Indossa abiti comodi, preferibilmente con bottoni\n• Organizza il trasporto poiché non potrai guidare dopo la procedura",
+      "opDay": "Giorno dell’Operazione",
+      "opDayContent": "Il giorno dell’operazione:\n\n• Arriva puntuale in clinica (solitamente 8:00)\n• La procedura dura circa 6-8 ore\n• Sarai sveglio con anestesia locale\n• Il nostro team medico assicurerà il tuo comfort\n• Puoi guardare la TV, ascoltare musica o riposare\n• Ti verrà fornito un pranzo leggero",
+      "postOp": "Dopo l’Operazione",
+      "postOpContent": "Dopo il trapianto:\n\n• Riceverai istruzioni dettagliate post-operatorie\n• Evita di toccare o grattare l’area trapiantata\n• Dormi con la testa sollevata per le prime notti\n• Evita attività intense per almeno 2 settimane\n• Proteggi il cuoio capelluto dal sole diretto\n• Partecipa a tutti i controlli programmati",
+      "hairWashing": "Lavaggio dei Capelli Dopo il Trapianto",
+      "hairWashingContent": "Il corretto lavaggio è fondamentale:\n\n• Aspetta 48 ore prima del primo lavaggio\n• Usa solo lo shampoo fornito dalla clinica\n• Applica delicatamente lo shampoo con i polpastrelli\n• Risciacqua con acqua tiepida, non calda\n• Asciuga tamponando, senza strofinare\n• Segui il calendario di lavaggio indicato dal medico"
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "subtitle": "Trova risposte alle domande più comuni sul trapianto di capelli",
+      "q1": "Per quanto tempo devo indossare un cappello dopo il trapianto?",
+      "a1": "Evita cappelli stretti per le prime 2 settimane. Dopo, puoi indossarne di larghi. Evita qualsiasi pressione sull’area trapiantata per almeno 1 mese.",
+      "q2": "Quando posso tornare al lavoro?",
+      "a2": "La maggior parte dei pazienti torna al lavoro in 3-5 giorni, a seconda del tipo di lavoro. Per lavori fisici potrebbero servire 1-2 settimane.",
+      "q3": "I capelli trapiantati cadranno?",
+      "a3": "Sì, è normale. I capelli trapiantati cadranno dopo 2-3 settimane (‘shock loss’). Cresceranno nuovamente dopo 3-4 mesi.",
+      "q4": "Quando vedrò i risultati finali?",
+      "a4": "La crescita inizia dopo 3-4 mesi. I risultati finali si vedono in 12-18 mesi.",
+      "q5": "La procedura è dolorosa?",
+      "a5": "Viene utilizzata anestesia locale, quindi non sentirai dolore. Potresti provare lieve fastidio nei giorni successivi.",
+      "q6": "Posso fare esercizio dopo l’operazione?",
+      "a6": "Evita esercizi intensi per almeno 2 settimane. Camminare va bene. Dopo 2 settimane puoi tornare gradualmente all’attività normale."
+    },
+    "contact": {
+      "title": "Contattaci",
+      "subtitle": "Mettiti in contatto con noi.",
+      "callNow": "Chiama Ora",
+      "whatsApp": "Chat su WhatsApp",
+      "detailsTitle": "Dettagli di Contatto",
+      "address": "Indirizzo",
+      "email": "E-Mail",
+      "emailPlaceholder": "Inserisci il tuo indirizzo email",
+      "formTitle": "Oppure Inviaci un Messaggio",
+      "name": "Nome Completo",
+      "namePlaceholder": "Inserisci il tuo nome completo",
+      "phone": "Telefono",
+      "phonePlaceholder": "Inserisci il tuo numero di telefono",
+      "message": "Messaggio",
+      "messagePlaceholder": "Raccontaci le tue domande o dubbi",
+      "send": "Invia Messaggio",
+      "validationError": "Errore di Validazione",
+      "validationMessage": "Compila tutti i campi richiesti (Nome, Email, Telefono)",
+      "successTitle": "Messaggio Inviato",
+      "successMessage": "Grazie per averci contattato. Ti risponderemo il prima possibile.",
+      "errorTitle": "Errore",
+      "errorMessage": "Impossibile aprire {{url}}"
+    },
+    "errors": {
+      "doctorNotFound": "Medico non trovato.",
+      "sessionNotFound": "Sessione non trovata.",
+      "uploadFailed": "Le tue foto non sono state salvate. Controlla la connessione Internet e riprova."
+    },
+    "poseNames": {
+      "FRONT": "Frontale",
+      "LEFT_PROFILE": "Profilo Sinistro",
+      "RIGHT_PROFILE": "Profilo Destro",
+      "TOP": "Dall'Alto",
+      "BACK": "Posteriore"
+    },
+    "common": {
+      "ok": "OK",
+      "close": "Chiudi",
+      "error": "Errore"
+    },
+    "language": {
+      "selectLanguage": "Seleziona lingua",
+      "changeTitle": "Lingua modificata",
+      "changeMessage": "L'applicazione verrà ora riavviata per applicare le modifiche della lingua.",
+      "changeMessageExpoGo": "Si prega di ricaricare manualmente l'app (scuotere il dispositivo o premere 'r' nel terminale) per applicare le modifiche della lingua."
+    }
+  }
+  
