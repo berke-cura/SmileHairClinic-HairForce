@@ -1,5 +1,8 @@
 # Smile Hair Clinic × HairForce Mobile App
 
+<img width="1024" height="1024" alt="hairforce" src="https://github.com/user-attachments/assets/548a57f0-69b2-4b6b-9b7b-8400853be493" />
+
+
 Patient-facing companion app built with Expo Router + React Native 0.81 for Smile Hair Clinic’s HairForce experience. It guides patients before, during, and after their procedure with localized education, doctor information, and a guided camera workflow that captures clinically consistent photos for follow-ups.
 
 ---
