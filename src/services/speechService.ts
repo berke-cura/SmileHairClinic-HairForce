@@ -115,7 +115,7 @@ const playSpeechItem = async (item: SpeechItem): Promise<void> => {
       const speechOptions = {
         language,
         pitch: 1.0,
-        rate: 0.93, // Normal speed (was 1.25)
+        rate: 0.97, // Normal speed (was 1.25)
         onDone: () => {
           console.log(`[SpeechService] Speech completed: "${item.text.substring(0, 50)}..."`);
           isSpeaking = false;

@@ -38,7 +38,9 @@ export default function CameraScreen() {
   const startCapture = store.startCapture;
   const endCapture = store.endCapture;
   const addPhoto = store.addPhoto;
+  const removeLastPhoto = store.removeLastPhoto;
   const resetSequence = store.resetSequence;
+  const capturedPhotos = store.capturedPhotos;
 
   // Poz sırası yönetimi
   const poseSequence = usePoseSequence();
@@ -116,10 +118,14 @@ export default function CameraScreen() {
       !isAnalyzing &&
       !isTransitioning &&
       !isCurrentlySpeaking() &&
+      // Block capture when BACK is being analyzed
+      !(poseSequence.currentPose === 'BACK' && isAnalyzing) &&
+      // Block capture if we already have 5 confirmed photos
+      capturedPhotos.length < 5 &&
       (isFirstPhotoRef.current ||
         Date.now() - lastPhotoCaptureTime.current >= MIN_PHOTO_INTERVAL), // Analiz, geçiş veya ses oynarken çekme
     currentPose: poseSequence.currentPose,
-    isAnalyzing: isAnalyzing || isTransitioning, // Analiz veya geçiş durumunu hook'a geçir
+    isAnalyzing: isAnalyzing || isTransitioning || (poseSequence.currentPose === 'BACK' && isAnalyzing), // Analiz veya geçiş durumunu hook'a geçir
     onPhotoStart: () => {
       isCapturingRef.current = true; // Fotoğraf çekimi başladı
       startCapture(); // Store'a çekim başladığını bildir
@@ -143,6 +149,16 @@ export default function CameraScreen() {
       if (result.confirmed) {
         // Fotoğraf geçerli, sonraki poza geç
         setAnalysisFeedback(null);
+        
+        // Check if we already have 5 confirmed photos - block further captures
+        if (capturedPhotos.length >= 5) {
+          console.log('Already have 5 confirmed photos, blocking further captures');
+          // If BACK is confirmed and we have 5 photos, go to results
+          if (pose === 'BACK') {
+            router.replace('/(app)/results');
+          }
+          return;
+        }
         
         if (!poseSequence.isLastPose) {
           // *** ADIM 3: DÜZELTİLMİŞ GEÇİŞ MANTIĞI ***
@@ -195,6 +211,9 @@ export default function CameraScreen() {
           router.replace('/(app)/results');
         }
       } else {
+        // Fotoğraf geçersiz - store'dan kaldır (sadece onaylanan fotoğraflar kalmalı)
+        removeLastPhoto();
+        
         // Fotoğraf geçersiz, sadece AI feedback'ini söyle
         const feedbackText = result.feedback || t('camera.photoNotSuitable');
         setAnalysisFeedback(feedbackText);

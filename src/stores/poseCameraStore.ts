@@ -38,6 +38,7 @@ interface PoseCameraState {
   setTotalPoses: (total: number) => void;
   setNextPose: (nextPose: Pose) => void; // currentIndex'i artırır ve pozu ayarlar
   addPhoto: (uri: string, pose: Pose) => void; // Fotoğraf ekle
+  removeLastPhoto: () => void; // Son eklenen fotoğrafı kaldır (analiz başarısız olursa)
   
   // Sequence management methods
   nextSequence: () => void; // Move to next pose in sequence
@@ -131,6 +132,11 @@ export const usePoseCameraStore = create<PoseCameraState>((set, get) => ({
   addPhoto: (uri, pose) =>
     set((state) => ({
       capturedPhotos: [...state.capturedPhotos, { uri, pose }],
+    })),
+
+  removeLastPhoto: () =>
+    set((state) => ({
+      capturedPhotos: state.capturedPhotos.slice(0, -1),
     })),
 
   setNextPose: (nextPose) => {

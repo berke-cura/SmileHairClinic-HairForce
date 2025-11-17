@@ -1,5 +1,5 @@
-import React from 'react';
-import { StyleSheet, View, Text, ScrollView } from 'react-native';
+import React, { useState } from 'react';
+import { StyleSheet, View, Text, ScrollView, TouchableOpacity } from 'react-native';
 import { Stack } from 'expo-router';
 import { t } from '@/src/services/i18n';
 import { useSettingsStore } from '@/src/stores/useSettingsStore';
@@ -15,13 +15,28 @@ const CLINIC_COORDINATES = {
   longitudeDelta: 0.01,
 };
 
-// İçerik blokları için yardımcı bileşen
-const InfoBlock: React.FC<{ title: string; children: React.ReactNode }> = ({ title, children }) => (
-  <View style={styles.section}>
-    <Text style={styles.heading}>{title}</Text>
-    {children}
-  </View>
-);
+// İçerik blokları için yardımcı bileşen - Collapsible (dropdown) olarak güncellendi
+const InfoBlock: React.FC<{ title: string; children: React.ReactNode }> = ({ title, children }) => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  return (
+    <View style={styles.section}>
+      <TouchableOpacity
+        style={styles.headingContainer}
+        onPress={() => setIsOpen(!isOpen)}
+        activeOpacity={0.7}
+      >
+        <Text style={styles.heading}>{title}</Text>
+        <Ionicons
+          name={isOpen ? 'chevron-down' : 'chevron-forward'}
+          size={24}
+          color={Colors.light.text}
+        />
+      </TouchableOpacity>
+      {isOpen && <View style={styles.contentContainer}>{children}</View>}
+    </View>
+  );
+};
 
 // Adımlar için yardımcı bileşen
 const Step: React.FC<{ text: string }> = ({ text }) => (
@@ -175,11 +190,20 @@ const styles = StyleSheet.create({
   section: {
     padding: 20,
   },
+  headingContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 16,
+  },
   heading: {
     fontSize: 22,
     fontWeight: 'bold',
     color: Colors.light.text,
-    marginBottom: 16,
+    flex: 1,
+  },
+  contentContainer: {
+    marginTop: 8,
   },
   subheading: {
     fontSize: 18,
